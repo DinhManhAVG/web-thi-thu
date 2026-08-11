@@ -6,5 +6,5 @@ services:
     image: web-thi-thu:latest
     container_name: web-thi-thu
     ports:
-      - "5173:80"
+      - "3497:80"
     restart: unless-stopped

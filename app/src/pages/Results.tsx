@@ -76,7 +76,7 @@ export default function Results() {
         </div>
 
         <div className="mt-4 flex flex-col gap-3">
-          {list.map((q, i) => {
+          {list.map((q) => {
             const record = answers[q.id]
             const correct = !!record?.correct
             return (
