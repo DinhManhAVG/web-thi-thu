@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useSession } from '../lib/store'
+import { useConfirm } from '../hooks/useConfirm'
 import type { OptionKey } from '../types'
 import QuizCard from '../components/QuizCard'
 import ProgressBar from '../components/ProgressBar'
@@ -11,6 +12,7 @@ const LETTERS: OptionKey[] = ['A', 'B', 'C', 'D']
 
 export default function Quiz() {
   const navigate = useNavigate()
+  const confirm = useConfirm()
   const { questions, current, answers, revealed, selectAnswer, reveal, next, finish } = useSession()
 
   const q = questions[current]
@@ -58,10 +60,15 @@ export default function Quiz() {
     }
   }
 
-  function handleExit() {
-    if (confirm('Thoát khỏi bài ôn tập? Tiến trình hiện tại sẽ không được lưu.')) {
-      navigate('/')
-    }
+  async function handleExit() {
+    const ok = await confirm({
+      title: 'Thoát bài ôn tập?',
+      message: 'Tiến trình hiện tại sẽ không được lưu.',
+      confirmLabel: 'Thoát',
+      cancelLabel: 'Ở lại',
+      variant: 'warning',
+    })
+    if (ok) navigate('/')
   }
 
   return (

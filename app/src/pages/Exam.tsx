@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useSession } from '../lib/store'
 import { useAntiCheat } from '../hooks/useAntiCheat'
+import { useConfirm } from '../hooks/useConfirm'
 import type { OptionKey } from '../types'
 import ProgressBar from '../components/ProgressBar'
 import OptionButton from '../components/OptionButton'
@@ -11,6 +12,7 @@ const LETTERS: OptionKey[] = ['A', 'B', 'C', 'D']
 
 export default function Exam() {
   const navigate = useNavigate()
+  const confirm = useConfirm()
   const { questions, current, answers, selectAnswer, goTo, finish, addViolation, startedAt } = useSession()
   const [phase, setPhase] = useState<'intro' | 'active'>('intro')
   const [toast, setToast] = useState<string | null>(null)
@@ -52,10 +54,23 @@ export default function Exam() {
 
   async function handleSubmit() {
     if (answeredCount < questions.length) {
-      const ok = confirm(`Bạn còn ${questions.length - answeredCount} câu chưa trả lời. Vẫn nộp bài?`)
+      const ok = await confirm({
+        title: 'Còn câu chưa trả lời',
+        message: `Bạn còn ${questions.length - answeredCount} câu chưa được trả lời. Vẫn nộp bài?`,
+        confirmLabel: 'Nộp bài',
+        cancelLabel: 'Làm tiếp',
+        variant: 'warning',
+      })
       if (!ok) return
-    } else if (!confirm('Nộp bài thi thử?')) {
-      return
+    } else {
+      const ok = await confirm({
+        title: 'Nộp bài thi thử?',
+        message: 'Bạn đã trả lời hết tất cả câu hỏi. Xác nhận nộp bài?',
+        confirmLabel: 'Nộp bài',
+        cancelLabel: 'Xem lại',
+        variant: 'info',
+      })
+      if (!ok) return
     }
     await exitFullscreen()
     finish()
