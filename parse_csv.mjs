@@ -4,9 +4,9 @@ import path from 'path'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-// Read the V2 CSV file (has answers + explanations)
+// Read the V2_3 CSV file (most complete version, has answers + explanations + PDF page)
 // Columns: Chương, Trang PDF, Câu hỏi, ĐA A, ĐA B, ĐA C, ĐA D, Đáp án đúng, Giải thích đáp án
-const csvPath = path.join(__dirname, 'DuLieu_TracNghiem_TTHCM_V2.csv')
+const csvPath = path.join(__dirname, 'DuLieu_TracNghiem_TTHCM_V2_3.csv')
 const raw = readFileSync(csvPath, 'utf8')
 
 // Parse CSV properly (handles quoted fields with commas/newlines)
@@ -95,6 +95,7 @@ for (const row of dataRows) {
   if (row.length < 8) continue
 
   const chapter = normalizeChapter(clean(row[0]))
+  const pdfPage = parseInt(clean(row[1]), 10) || null
   const question = clean(row[2])
   const optA = clean(row[3])
   const optB = clean(row[4])
@@ -111,6 +112,7 @@ for (const row of dataRows) {
   questions.push({
     id: id++,
     chapter,
+    pdfPage,
     question,
     options: { A: optA, B: optB, C: optC, D: optD },
     answer,

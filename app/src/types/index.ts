@@ -3,6 +3,7 @@ export type OptionKey = 'A' | 'B' | 'C' | 'D'
 export interface Question {
   id: number
   chapter: string
+  pdfPage: number | null
   question: string
   options: Record<OptionKey, string>
   answer: OptionKey

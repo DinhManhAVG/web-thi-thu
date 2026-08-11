@@ -5,9 +5,10 @@ interface FeedbackPanelProps {
   answerLetter: OptionKey
   answerText: string
   explanation: string
+  pdfPage?: number | null
 }
 
-export default function FeedbackPanel({ correct, answerLetter, answerText, explanation }: FeedbackPanelProps) {
+export default function FeedbackPanel({ correct, answerLetter, answerText, explanation, pdfPage }: FeedbackPanelProps) {
   return (
     <div
       className={
@@ -35,6 +36,16 @@ export default function FeedbackPanel({ correct, answerLetter, answerText, expla
         <div className="mt-3 border-t border-brand-100/80 pt-3">
           <p className="text-xs font-bold tracking-wide text-brand-500 uppercase">Giải thích</p>
           <p className="mt-1 text-sm leading-relaxed text-ink-600">{explanation}</p>
+        </div>
+      )}
+      {pdfPage && (
+        <div className="mt-3 flex items-center gap-1.5 border-t border-brand-100/60 pt-3">
+          <svg viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4 shrink-0 text-brand-400">
+            <path fillRule="evenodd" d="M4 4a2 2 0 0 1 2-2h4.586A2 2 0 0 1 12 2.586L15.414 6A2 2 0 0 1 16 7.414V16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4Zm2 6a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2H7a1 1 0 0 1-1-1Zm1 3a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2H7Z" clipRule="evenodd" />
+          </svg>
+          <span className="text-xs text-ink-400">
+            Xem tài liệu trang <span className="font-bold text-brand-500">{pdfPage}</span>
+          </span>
         </div>
       )}
     </div>

@@ -81,6 +81,18 @@ export default function Results() {
             const correct = !!record?.correct
             return (
               <div key={q.id} className="rounded-2xl border border-white bg-white/90 p-5 shadow-soft">
+                {/* Chapter + PDF page */}
+                <div className="mb-2 flex items-center gap-2">
+                  <span className="text-[11px] font-bold uppercase tracking-widest text-brand-500">{q.chapter}</span>
+                  {q.pdfPage && (
+                    <span className="flex items-center gap-1 rounded-full bg-brand-50 px-2 py-0.5 text-[11px] font-semibold text-brand-500">
+                      <svg viewBox="0 0 16 16" fill="currentColor" className="h-3 w-3">
+                        <path fillRule="evenodd" d="M4 1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5.414A2 2 0 0 0 13.414 4L10 .586A2 2 0 0 0 8.586 0H4Zm5 5a1 1 0 1 0 0-2H6a1 1 0 0 0 0 2h3Zm-3 3a1 1 0 0 0 0 2h5a1 1 0 1 0 0-2H6Z" clipRule="evenodd" />
+                      </svg>
+                      Trang {q.pdfPage}
+                    </span>
+                  )}
+                </div>
                 <div className="flex items-start justify-between gap-3">
                   <p className="text-sm leading-snug font-bold text-ink-900">
                     {questions.indexOf(q) + 1}. {q.question}
@@ -106,7 +118,6 @@ export default function Results() {
                   </p>
                 )}
                 {q.explanation && <p className="mt-2 text-xs leading-relaxed text-ink-400">{q.explanation}</p>}
-                {i < list.length - 1 && null}
               </div>
             )
           })}

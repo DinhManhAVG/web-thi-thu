@@ -92,7 +92,7 @@ export default function Quiz() {
         <ProgressBar value={(current + 1) / questions.length} />
       </div>
 
-      <h1 className="mt-5 text-2xl font-extrabold text-ink-900">Trắc nghiệm Tư tưởng Hồ Chí Minh</h1>
+      <p className="mt-5 text-xs font-bold uppercase tracking-widest text-brand-500">{q.chapter}</p>
       <p className="mt-1 text-sm text-ink-400">Chọn một đáp án. Kết quả và giải thích sẽ hiện ngay.</p>
 
       <p className="mt-6 text-lg leading-snug font-bold text-ink-900">{q.question}</p>
@@ -127,6 +127,7 @@ export default function Quiz() {
             answerLetter={q.answer}
             answerText={q.options[q.answer]}
             explanation={q.explanation}
+            pdfPage={q.pdfPage}
           />
           <button
             onClick={handleNext}

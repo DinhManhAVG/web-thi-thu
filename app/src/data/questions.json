@@ -2,6 +2,7 @@
   {
     "id": 1,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Thuật ngữ “tư tưởng Hồ Chí Minh” được dùng theo nghĩa nào?",
     "options": {
       "A": "Là tư tưởng của một cá nhân",
@@ -15,6 +16,7 @@
   {
     "id": 2,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Văn kiện Đại hội IX quan niệm: “Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của […...] là kết quả của sự vận dụng và phát triển sáng tạo […...] vào điều kiện cụ thể của nước ta, đồng thời là kết tinh tinh hoa dân tộc và trí tuệ thời đại nhằm giải phóng dân tộc, giải phóng giai cấp, giải phóng con người.”",
     "options": {
       "A": "Cách mạng Việt Nam; chủ nghĩa Mác-Lênin;",
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Khái niệm tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng vào thời gian nào?",
     "options": {
       "A": "Năm 1930",
@@ -41,6 +44,7 @@
   {
     "id": 4,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Mục đích của tư tưởng Hồ Chí Minh là gì ?",
     "options": {
       "A": "Giải phóng dân tộc",
@@ -54,6 +58,7 @@
   {
     "id": 5,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Đối tượng của bộ môn tư tưởng Hồ Chí Minh?",
     "options": {
       "A": "Quá trình sản sinh tư tưởng Hồ Chí Minh",
@@ -67,6 +72,7 @@
   {
     "id": 6,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Bộ môn tư tưởng Hồ Chí Minh có mấy nhiệm vụ khi nghiên cứu tư tưởng Hồ Chí Minh?",
     "options": {
       "A": "4 nhiệm vụ",
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "chapter": "Chương 1",
+    "pdfPage": 1,
     "question": "Tư tưởng Hồ Chí Minh có vị trí như thế nào trong hệ thống tư tưởng Đảng Cộng sản Việt Nam?",
     "options": {
       "A": "Là một bộ phận trong hệ thống tư tưởng của Đảng",
@@ -93,6 +100,7 @@
   {
     "id": 8,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Vấn đề nào mà giáo trình tư tưởng Hồ Chí Minh chưa nêu khi nói về ý nghĩa học tập môn học này đối với sinh viên?",
     "options": {
       "A": "Nâng cao năng lực tư duy lý luận và phương pháp cong tác",
@@ -106,6 +114,7 @@
   {
     "id": 9,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Theo Hồ Chí Minh, học chủ nghĩa Mác- Lênin là để làm gì?",
     "options": {
       "A": "Học thuộc các luận điểm lí luận.",
@@ -119,6 +128,7 @@
   {
     "id": 10,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Điều mong muốn cuối cùng của Hồ Chí Minh ghi trong Di chúc là gì?",
     "options": {
       "A": "Xây dựng một nước Việt Nam phồn vinh và cường thịnh",
@@ -132,6 +142,7 @@
   {
     "id": 11,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Chọn cụm từ đúng: Tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Hệ thống các luận điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam",
@@ -145,6 +156,7 @@
   {
     "id": 12,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Vận dụng tư tưởng Hồ Chí Minh cần phải nắm vững nguyên tắc gì?",
     "options": {
       "A": "Quan điểm lịch sử thế giới",
@@ -158,6 +170,7 @@
   {
     "id": 13,
     "chapter": "Chương 1",
+    "pdfPage": 2,
     "question": "Ý nghĩa của việc học tập môn Tư tưởng Hồ Chí Minh",
     "options": {
       "A": "Góp phần nâng cao năng lực tư duy lý luận",
@@ -171,6 +184,7 @@
   {
     "id": 14,
     "chapter": "Chương 1",
+    "pdfPage": 3,
     "question": "Thống nhất giữa tính đảng và tính khoa học là:",
     "options": {
       "A": "Phương pháp nghiên cứu tư tưởng Hồ Chí Minh",
@@ -184,6 +198,7 @@
   {
     "id": 15,
     "chapter": "Chương 1",
+    "pdfPage": 3,
     "question": "“Đường lối chính trị, nề nếp làm việc và đạo đức cách mạng của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch... Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và đạo đức cách mạng của Hồ Chủ tịch; sự học tập ấy là điều kiện tiên quyết làm cho Đảng và làm cho cách mạng đi mau đến thắng lợi hoàn toàn”. Đoạn văn trên được trích trong:",
     "options": {
       "A": "Văn kiện Đại hội II của Đảng tháng 2 năm 1951",
@@ -197,6 +212,7 @@
   {
     "id": 16,
     "chapter": "Chương 1",
+    "pdfPage": 3,
     "question": "“Thắng lợi to lớn của sự nghiệp chống Mỹ cứu nước cũng như những trang sử chói lọi của cách mạng Việt Nam ngót nửa thế kỷ nay mãi mãi gắn liền với tên tuổi của chủ tịch Hồ Chí Minh, người sáng lập và rèn luyện Đảng ta, người khai sinh nền cộng hòa dân chủ Việt Nam, người vun trồng khối đại đoàn kết dân tộc và xây dựng lực lượng vũ trang cách mạng, vị lãnh tụ thiên tài của giai cấp công nhân và nhân dân ta, người anh hùng dân tộc vĩ đại, người chiến sĩ lỗi lạc của phong trào cộng sản và công nhân quốc tế”. Đoạn văn trên được trích trong:",
     "options": {
       "A": "Văn kiện Đại hội II của Đảng tháng 2 năm 1951",
@@ -210,6 +226,7 @@
   {
     "id": 17,
     "chapter": "Chương 1",
+    "pdfPage": 3,
     "question": "“Phải kiên định chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh, vận dụng sáng tạo và phát triển phù hợp với thực tiễn Việt Nam”. Đoạn trích trên trích trong:",
     "options": {
       "A": "Văn kiện Đại hội II của Đảng tháng 2 năm 1951",
@@ -223,6 +240,7 @@
   {
     "id": 18,
     "chapter": "Chương 1",
+    "pdfPage": 4,
     "question": "Chọn câu trả lời đúng nhất: “Thống nhất giữa lý luận và thực tiễn” là:",
     "options": {
       "A": "Nội dung và quan điểm phương pháp luận nghiên cứu tư tưởng Hồ Chí Minh",
@@ -236,6 +254,7 @@
   {
     "id": 19,
     "chapter": "Chương 1",
+    "pdfPage": 4,
     "question": "Một trong những nguyên tắc phương pháp luận khi nghiên cứu tư tưởng Hồ Chí Minh là gì?",
     "options": {
       "A": "Kết hợp nghiên cứu các tác phẩm với thực tiễn chỉ đạo cách mạng của Hồ Chí Minh.",
@@ -249,6 +268,7 @@
   {
     "id": 20,
     "chapter": "Chương 2",
+    "pdfPage": 4,
     "question": "Một trong những nguyên tắc phương pháp luận khi nghiên cứu tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Bảo đảm sự thống nhất nguyên tắc tính Đảng và tính khoa học",
@@ -262,6 +282,7 @@
   {
     "id": 21,
     "chapter": "Chương 2",
+    "pdfPage": 4,
     "question": "Đối với Hồ Chí Minh, ưu điểm lớn nhất trong chủ nghĩa Tam dân của Tôn Trung Sơn là gì?",
     "options": {
       "A": "Chống phong kiến",
@@ -275,6 +296,7 @@
   {
     "id": 22,
     "chapter": "Chương 2",
+    "pdfPage": 4,
     "question": "Nguồn gốc lý luận nào quyết định bản chất tư tưởng Hồ Chí Minh",
     "options": {
       "A": "Tư tưởng Tam dân của Tôn Trung Sơn",
@@ -288,6 +310,7 @@
   {
     "id": 23,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Tư tưởng Hồ Chí Minh được hình thành trong bối cảnh lịch sử nào?",
     "options": {
       "A": "Chủ nghĩa tư bản đang trong giai đoạn tự do cạnh tranh",
@@ -301,6 +324,7 @@
   {
     "id": 24,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Tư tưởng Hồ Chí Minh được hình thành và phát triển qua mấy giai đoạn?",
     "options": {
       "A": "3 giai đoạn",
@@ -314,6 +338,7 @@
   {
     "id": 25,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Tháng 7 năm 1920, Hồ Chí Minh đọc tác phẩm gì của V.I.Lênin?",
     "options": {
       "A": "Làm gì",
@@ -327,6 +352,7 @@
   {
     "id": 26,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Một trong những giá trị của văn hoá phương Tây được Hồ Chí Minh tiếp thu góp phần hình thành tư tưởng của Người là:",
     "options": {
       "A": "Tư tưởng dân chủ và cách mạng trong cách mạng Pháp và cách mạng Mỹ",
@@ -340,6 +366,7 @@
   {
     "id": 27,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Một trong những tiền đề tư tưởng, lí luận dẫn đến sự hình thành tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam",
@@ -353,6 +380,7 @@
   {
     "id": 28,
     "chapter": "Chương 2",
+    "pdfPage": 5,
     "question": "Một trong những truyền thống tốt đẹp của tư tưởng và văn hoá Việt Nam được Hồ Chí Minh tiếp thu giúp hình thành tư tưởng của Người là:",
     "options": {
       "A": "Chủ nghĩa yêu nước Việt Nam.",
@@ -366,6 +394,7 @@
   {
     "id": 29,
     "chapter": "Chương 2",
+    "pdfPage": 6,
     "question": "Mục đích chính Hồ Chí Minh muốn ra nước ngoài là:",
     "options": {
       "A": "Xem nước Pháp và các nước khác làm như thế nào, sẽ trở về giúp đồng bào chúng",
@@ -379,6 +408,7 @@
   {
     "id": 30,
     "chapter": "Chương 2",
+    "pdfPage": 6,
     "question": "Nguyên nhân trực tiếp đẫn đến các phong trào yêu nước theo khuynh hướng dân chủ tư sản ở Việt Nam đầu thế kỷ XX thất bại là:",
     "options": {
       "A": "Giai cấp tư sản Việt Nam còn yếu",
@@ -392,6 +422,7 @@
   {
     "id": 31,
     "chapter": "Chương 2",
+    "pdfPage": 6,
     "question": "“Việt Nam vạn tuế” là khẩu hiệu trước khi bị hành hình của các chí sĩ yêu nước tham gia:",
     "options": {
       "A": "Phong trào Cần Vương",
@@ -405,6 +436,7 @@
   {
     "id": 32,
     "chapter": "Chương 2",
+    "pdfPage": 6,
     "question": "Chí sĩ yêu nước Phan Bội Châu khởi xướng phong trào:",
     "options": {
       "A": "Duy tân",
@@ -418,6 +450,7 @@
   {
     "id": 33,
     "chapter": "Chương 2",
+    "pdfPage": 6,
     "question": "Chọn câu trả lời đúng nhất: Dưới ách thống trị, áp bức của thực dân Pháp, xã hội Việt Nam đã xuất hiện các giai cấp mới:",
     "options": {
       "A": "Nông dân, công nhân và địa chủ",
@@ -431,6 +464,7 @@
   {
     "id": 34,
     "chapter": "Chương 2",
+    "pdfPage": 7,
     "question": "Giá trị nào được xem là giá trị xuyên suốt nổi bật nhất trong truyền thống dân tộc Việt Nam? Chọn câu trả lời đúng nhất.",
     "options": {
       "A": "Tinh thần thương người như thể thương thân",
@@ -444,6 +478,7 @@
   {
     "id": 35,
     "chapter": "Chương 2",
+    "pdfPage": 7,
     "question": "“Nước Việt Nam có quyền hưởng tự do và độc lập và sự thật đã thành một nước tự do, độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”. Đoạn văn trên được trích trong:",
     "options": {
       "A": "Tuyên ngôn Độc lập",
@@ -457,6 +492,7 @@
   {
     "id": 36,
     "chapter": "Chương 2",
+    "pdfPage": 7,
     "question": "Trong khi kế thừa và tiếp thu học thuyết của Nho giáo về quản lý xã hội, Hồ Chí Minh đã kế thừa và đổi mới tư tưởng:",
     "options": {
       "A": "Đức trị và nhân trị",
@@ -470,6 +506,7 @@
   {
     "id": 37,
     "chapter": "Chương 2",
+    "pdfPage": 7,
     "question": "Đối với Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?",
     "options": {
       "A": "Tinh thần hiếu học.",
@@ -483,6 +520,7 @@
   {
     "id": 38,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Nguyễn Ái Quốc gửi “Bản yêu sách của nhân dân An Nam” tới Hội nghị Vécxây, đòi chính phủ Pháp thừa nhận các quyền tự do, dân chủ và bình đẳng của nhân dân Việt Nam vào thời gian nào?",
     "options": {
       "A": "6/1917",
@@ -496,6 +534,7 @@
   {
     "id": 39,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Nhân tố chủ quan hình thành tư tưởng Hồ Chí Minh bao gồm:",
     "options": {
       "A": "Phẩm chất cá nhân cùng năng lực hoạt động thực tiễn phong phú",
@@ -509,6 +548,7 @@
   {
     "id": 40,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Hồ Chí Minh xác định, cách mạng Việt Nam phải trải qua những thời kì nào?",
     "options": {
       "A": "Cách mạng tư sản và cách mạng vô sản",
@@ -522,6 +562,7 @@
   {
     "id": 41,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Trong tư tưởng Hồ Chí Minh về giải phóng dân tộc, giải phóng giai cấp, giải phóng con người. Hồ Chí Minh đặt lên hàng đầu nhiệm vụ gì?",
     "options": {
       "A": "Giải phóng dân tộc.",
@@ -535,6 +576,7 @@
   {
     "id": 42,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Hồ Chí Minh dùng hình tượng gì để chỉ chủ nghĩa tư bản?",
     "options": {
       "A": "Con bạch tuộc",
@@ -548,6 +590,7 @@
   {
     "id": 43,
     "chapter": "Chương 2",
+    "pdfPage": 8,
     "question": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh:",
     "options": {
       "A": "Cách mạng giải phóng dân tộc giành thắng lợi đồng thời với thắng lợi cách mạng vô sản ở chính quốc.",
@@ -561,6 +604,7 @@
   {
     "id": 44,
     "chapter": "Chương 2",
+    "pdfPage": 9,
     "question": "Theo Hồ Chí Minh, vấn đề dân tộc và vấn đề giai cấp có mối quan hệ với nhau như thế nào?",
     "options": {
       "A": "Giải phóng dân tộc và giải phóng giai cấp cần được tiến hành song song",
@@ -574,6 +618,7 @@
   {
     "id": 45,
     "chapter": "Chương 2",
+    "pdfPage": 9,
     "question": "Vấn đề dân tộc trong tư tưởng Hồ Chí Minh là vấn đề:",
     "options": {
       "A": "Dân tộc nói chung",
@@ -587,6 +632,7 @@
   {
     "id": 46,
     "chapter": "Chương 2",
+    "pdfPage": 9,
     "question": "Thực chất của vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh b - Độc lập dân tộc và chủ nghĩa xã hội d - Cả a, b, c đều đúng là:",
     "options": {
       "A": "Đòi quyền bình đẳng giữa các dân tộc",
@@ -600,6 +646,7 @@
   {
     "id": 47,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc là sự nghiệp đoàn",
     "options": {
       "A": "Giai cấp công nhân",
@@ -613,6 +660,7 @@
   {
     "id": 48,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Sức mạnh dân tộc Việt Nam bao gồm những yếu tố chủ yếu nào?",
     "options": {
       "A": "Chủ nghĩa yêu nước",
@@ -626,6 +674,7 @@
   {
     "id": 49,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Trước khi Đảng Cộng sản Việt Nam ra đời, tình cảnh cách mạng Việt",
     "options": {
       "A": "Khủng hoảng về đường lối cứu nước",
@@ -639,6 +688,7 @@
   {
     "id": 50,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Phong trào Đông Du (1906 -1908) do ai lãnh đạo?",
     "options": {
       "A": "Hồ Chí Minh",
@@ -652,6 +702,7 @@
   {
     "id": 51,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Theo tư tưởng Hồ Chí Minh, các loại kẻ thù cần phải đánh đổ trong quá trình giải phóng dân tọc, giải phóng giai cấp, giải phóng con người là:",
     "options": {
       "A": "Nghèo nàn, giốt nát, lạc hậu và chủ nghĩa cá nhân dưới mọi hình thức",
@@ -665,6 +716,7 @@
   {
     "id": 52,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Nội dung cơ bản trong con đường cứu nước của Hồ Chí Minh là:",
     "options": {
       "A": "Độc lập dân tộc gắn liến với chủ nghĩa xã hội",
@@ -678,6 +730,7 @@
   {
     "id": 53,
     "chapter": "Chương 2",
+    "pdfPage": 10,
     "question": "Một trong những nội dung cơ bản của Bản Yêu sách gồm tám điểm",
     "options": {
       "A": "Đòi quyền tự trị của dân tộc",
@@ -691,6 +744,7 @@
   {
     "id": 54,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Một trong những nội dung cơ bản của Bản Yêu sách gồm tám điểm",
     "options": {
       "A": "Đòi quyền tự trị của dân tộc",
@@ -704,6 +758,7 @@
   {
     "id": 55,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "\"Dù phải đốt cháy cả dãy Trừờng Sơn cũng phải giành cho được độc",
     "options": {
       "A": "Tháng 5-1941",
@@ -717,6 +772,7 @@
   {
     "id": 56,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Đại hội nào của Đảng khẳng định: “Đảng lấy chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động ”?",
     "options": {
       "A": "Đại hội VII (1991)",
@@ -730,6 +786,7 @@
   {
     "id": 57,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Hồ Chí Minh là người đấu trạnh đòi quyền độc lập cho:",
     "options": {
       "A": "Cả thế giới",
@@ -743,6 +800,7 @@
   {
     "id": 58,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Chủ tịch Hồ Chí Minh ra lời kêu gọi toàn quốc kháng chiến vào thời",
     "options": {
       "A": "Đêm ngày 18/9/1946",
@@ -756,6 +814,7 @@
   {
     "id": 59,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn thắng lợi",
     "options": {
       "A": "Có tiềm lực mạnh",
@@ -769,6 +828,7 @@
   {
     "id": 60,
     "chapter": "Chương 2",
+    "pdfPage": 11,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được",
     "options": {
       "A": "Tiến hành chủ động và sáng tạo",
@@ -782,6 +842,7 @@
   {
     "id": 61,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi cần phải:",
     "options": {
       "A": "Thực hiện bằng con đường bạo lực",
@@ -795,6 +856,7 @@
   {
     "id": 62,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Luận điểm \"Chủ nghĩa tư bản là một con đĩa có một cái vòi bám vào",
     "options": {
       "A": "Bản Án Chế độ thực dân Pháp",
@@ -808,6 +870,7 @@
   {
     "id": 63,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Luận điểm ”Chủ nghĩa dân tộc là một động lực lớn của đất nước” của",
     "options": {
       "A": "Báo cáo Bắc kỳ, Trung Kỳ và Nam Kỳ",
@@ -821,6 +884,7 @@
   {
     "id": 64,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Cuốn “Đường Cách mệnh” tập hợp các bài giảng của Nguyễn Ái Quốc",
     "options": {
       "A": "Pháp",
@@ -834,6 +898,7 @@
   {
     "id": 65,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Theo Hồ Chí Minh độc lập, tự do là:",
     "options": {
       "A": "Quyền thiêng liêng của tất cả các dân tộc",
@@ -847,6 +912,7 @@
   {
     "id": 66,
     "chapter": "Chương 2",
+    "pdfPage": 12,
     "question": "Theo Hồ Chí Minh, vận dụng chủ nghĩa Mác – Lênin cần phải:",
     "options": {
       "A": "Phù hợp với từng hoàn cảnh, từng đối tượng",
@@ -860,6 +926,7 @@
   {
     "id": 67,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, phản ánh:",
     "options": {
       "A": "Quy luật khách quan của cách mạng giải phóng dân tộc trong thời đại cách mạng vô sản",
@@ -873,6 +940,7 @@
   {
     "id": 68,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Cách mạng giải phóng dân tộc trong thời đại mới phải do ĐảngCộng sản lãnh đạo để:",
     "options": {
       "A": "Giác ngộ, tổ chức, tập hợp dân chúng; đoàn kết với vô sản và các dân tọc bị áp bức trên thế giới",
@@ -886,6 +954,7 @@
   {
     "id": 69,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc, vì:",
     "options": {
       "A": "Kẻ thù ở thuộc địa yếu hơn kẻ thù của giai cấp vô sản ở chính quốc",
@@ -899,6 +968,7 @@
   {
     "id": 70,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Kiên trì con đường Hồ Chí Minh đã lựa chọn, nghĩa là:",
     "options": {
       "A": "Hội nhập với nền kinh tế thế giới",
@@ -912,6 +982,7 @@
   {
     "id": 71,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Theo Hồ Chí Minh, thực chất của giải phóng giai cấp là:",
     "options": {
       "A": "Xóa bỏ giai cấp bóc lột với tư cách là giai cấp thống trị xã hội",
@@ -925,6 +996,7 @@
   {
     "id": 72,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Trong tư tưởng Hồ Chí Minh, giải phóng con người trước hết là:",
     "options": {
       "A": "Giải phóng quần chúng lao động",
@@ -938,6 +1010,7 @@
   {
     "id": 73,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Giải phóng con người theo tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Giải phóng con người với tư cách từng cá nhân",
@@ -951,6 +1024,7 @@
   {
     "id": 74,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Giải phóng dân tộc theo tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Đánh đổ ách áp bức, thống trị của đế quốc thực dân giành độc lập dân tộc",
@@ -964,6 +1038,7 @@
   {
     "id": 75,
     "chapter": "Chương 2",
+    "pdfPage": 13,
     "question": "Theo Hồ Chí Minh: “Giải phóng dân tộc, giải phóng giai cấp, giải phóng con người thống nhất nhau là tư tưởng cách mạng [........]”",
     "options": {
       "A": "Triệt để nhất",
@@ -977,6 +1052,7 @@
   {
     "id": 76,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Trong tư tưởng Hồ Chí Minh, tư tưởng bạo lực cách mạng luôn thống",
     "options": {
       "A": "Tư tưởng nhân đạo hòa bình",
@@ -990,6 +1066,7 @@
   {
     "id": 77,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc là sự nghiệp đoàn",
     "options": {
       "A": "Toàn dân, trên cơ sở liên minh công – nông",
@@ -1003,6 +1080,7 @@
   {
     "id": 78,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […......] theo tư tưởng Hồ Chí Minh. “Toàn quốc đồng bào hãy đúng dậy […......] mà tự giải phóng cho ta”",
     "options": {
       "A": "Dựa vào sự giúp đỡ quốc tế.",
@@ -1016,6 +1094,7 @@
   {
     "id": 79,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […......] theo tư tưởng Hồ Chí Minh: “Toàn thể dân tộc Việt Nam quyết đem [….....] để giữ vững quyền tự do, độc lập ấy”",
     "options": {
       "A": "Tất cả tinh thần và lực lượng",
@@ -1029,6 +1108,7 @@
   {
     "id": 80,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […......] theo tư tưởng Hồ Chí Minh: “Tôi chỉ có một ham muốn, ham muốn tột bậc, là làm sao cho nước ta được [……], dân ta được hoàn toàn tự do, đồng bào ta ai cũng có cơm ăn áo mặc, ai cũng được học hành”.",
     "options": {
       "A": "Nhanh chóng độc lập",
@@ -1042,6 +1122,7 @@
   {
     "id": 81,
     "chapter": "Chương 2",
+    "pdfPage": 14,
     "question": "Ham muốn tột bậc của Hồ Chí Minh là gì?",
     "options": {
       "A": "Nước được độc lập.",
@@ -1055,6 +1136,7 @@
   {
     "id": 82,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Tư tưởng cốt lõi trong tư tưởng Hồ Chí Minh về cách mạng Việt Nam là gì?",
     "options": {
       "A": "Tư tưởng về giải phóng dân tộc, giải phóng giai cấp, giải phóng con người.",
@@ -1068,6 +1150,7 @@
   {
     "id": 83,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Vấn đề dân tộc trong tư tưởng Hồ Chí Minh là sự kết hợp nhuần nhuyễn giữa:",
     "options": {
       "A": "Dân tộc và giai cấp",
@@ -1081,6 +1164,7 @@
   {
     "id": 84,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Nguyễn Tất Thành lên con tàu Amiran Latusơ Tơrơvin để ra đi tìm đường cứu nước tại đâu? Vào thời gian nào?",
     "options": {
       "A": "6/5/1911 tại Bến cảng Nhà Rồng",
@@ -1094,6 +1178,7 @@
   {
     "id": 85,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Nguyễn Tất Thành lúc ra đi tìm đường cứu nước bao nhiêu tuổi?",
     "options": {
       "A": "19 tuổi",
@@ -1107,6 +1192,7 @@
   {
     "id": 86,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Người thầy giáo đầu tiên của Nguyễn Tất Thành là ai?",
     "options": {
       "A": "Vương Thúc Quí",
@@ -1120,6 +1206,7 @@
   {
     "id": 87,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Nguyễn Tất Thành vào học trường Pháp -Việt Đông Ba năm nào?",
     "options": {
       "A": "9/1905",
@@ -1133,6 +1220,7 @@
   {
     "id": 88,
     "chapter": "Chương 2",
+    "pdfPage": 15,
     "question": "Nguyễn Tất Thành nói: “Tôi muốn đi ra ngoài xem nước Pháp và các nước khác làm như thế nào, tôi sẽ trở về giúp đồng bào chúng ta”. Câu nói đó vào thời gian nào?",
     "options": {
       "A": "6/1909",
@@ -1146,6 +1234,7 @@
   {
     "id": 89,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Hồ Chí Minh sánh lập “Hội Việt Nam cách mạng thanh niên” vào thời gian nào?",
     "options": {
       "A": "Tháng 5/1925",
@@ -1159,6 +1248,7 @@
   {
     "id": 90,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Nguyễn Tất Thành học tại trường Quốc học Huế năm học nào?",
     "options": {
       "A": "Năm học 1905-1906",
@@ -1172,6 +1262,7 @@
   {
     "id": 91,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Nguyễn Tất Thành dạy học ở trường Dục Thanh thời gian nào?",
     "options": {
       "A": "9/1908 đến 9/1909",
@@ -1185,6 +1276,7 @@
   {
     "id": 92,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Nguyễn Tất Thành ở Mỹ thời gian nào?",
     "options": {
       "A": "1911- 1912",
@@ -1198,6 +1290,7 @@
   {
     "id": 93,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Nguyễn Tất Thành ở nước Anh thời gian nào?",
     "options": {
       "A": "1913- 1914",
@@ -1211,6 +1304,7 @@
   {
     "id": 94,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Những tri thức mà Nguyễn Tất Thành có được về nền văn hoá Pháp là do anh đã từng đọc các tác phẩm của ai?",
     "options": {
       "A": "Vôn te",
@@ -1224,6 +1318,7 @@
   {
     "id": 95,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Nguyễn Ái Quốc vào Đảng Xã hội Pháp năm nào?",
     "options": {
       "A": "1917",
@@ -1237,6 +1332,7 @@
   {
     "id": 96,
     "chapter": "Chương 2",
+    "pdfPage": 16,
     "question": "Báo Le Paria (Người Cùng khổ) do Nguyễn Ái Quốc đồng sáng lập, ra số đầu tiên khi nào?",
     "options": {
       "A": "30/12/1920",
@@ -1250,6 +1346,7 @@
   {
     "id": 97,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "\"Luận cương của V. I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: hỡi đồng bào bị đọa đày đau khổ? Đây là cái cần thiết cho chúng ta, đây là con đừờng giải phóng của chúng ta\". Nguyễn Ái Quốc nói câu ấy khi đang ở đâu?",
     "options": {
       "A": "Luân Đôn, Anh",
@@ -1263,6 +1360,7 @@
   {
     "id": 98,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "\"Luận cương của V. I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: hỡi đồng bào bị đọa đày đau khổ? Đây là cái cần thiết cho chúng ta, đây là con đừờng giải phóng của chúng ta\". Câu nói này của Nguyễn Ái Quốc được trích từ tác phẩm nào?",
     "options": {
       "A": "Đời hoạt động của Hồ Chủ tịch",
@@ -1276,6 +1374,7 @@
   {
     "id": 99,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "Trong thời gian ở nước ngoài, Nguyễn Tất Thành đã làm những công việc gì?",
     "options": {
       "A": "Phụ bếp, cào tuyết",
@@ -1289,6 +1388,7 @@
   {
     "id": 100,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "Hồ Chi Minh viết tác phẩm “Đường Kách mệnh” vào năm nào?",
     "options": {
       "A": "Năm 1926",
@@ -1302,6 +1402,7 @@
   {
     "id": 101,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "Tác phẩm “Bản án chế độ thực dân Pháp” của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?",
     "options": {
       "A": "Năm 1923",
@@ -1315,6 +1416,7 @@
   {
     "id": 102,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "Nguyễn Ái Quốc lựa chọn con đường giải phóng dân tộc theo khuynh hường chính trị vô sản vào thời gian nào?",
     "options": {
       "A": "1917",
@@ -1328,6 +1430,7 @@
   {
     "id": 103,
     "chapter": "Chương 2",
+    "pdfPage": 17,
     "question": "Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc vào thời gian nào?",
     "options": {
       "A": "Khi Bác lên tàu từ bến Nhà Rồng năm 1911;",
@@ -1341,6 +1444,7 @@
   {
     "id": 104,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Nguyễn Ái Quốc từ Liên Xô về Quảng Châu (Trung Quốc) vào thời gian nào?",
     "options": {
       "A": "12/1924",
@@ -1354,6 +1458,7 @@
   {
     "id": 105,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Vở kịch Con Rồng tre được Nguyễn Ái Quốc viết nhân dịp vua Khải Định sang Pháp, đó là năm nào?",
     "options": {
       "A": "Tháng 5/1922",
@@ -1367,6 +1472,7 @@
   {
     "id": 106,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "“Đuổi hổ cửa trước, rước beo cửa sau” là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của ai?",
     "options": {
       "A": "Nguyễn Thái Học",
@@ -1380,6 +1486,7 @@
   {
     "id": 107,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "“Ỷ Pháp cầu tiến bộ chẳng khác nào xin giặc rủ lòng thương” là câu Nguyễn Ái Quốc nhận xét về chủ trương cứu nước của ai?",
     "options": {
       "A": "Nguyễn Thái Học",
@@ -1393,6 +1500,7 @@
   {
     "id": 108,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Lý do chính của việc Nguyễn Ái Quốc đến Pháp?",
     "options": {
       "A": "Để vận động nhân dân Pháp ủng hộ cách mạng Việt Nam",
@@ -1406,6 +1514,7 @@
   {
     "id": 109,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Đại hội nào của Đảng khẳng định: “Tư tưởng Hồ Chí Minh không chỉ là kết quả của sự vận dụng sáng tạo mà còn phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta”?",
     "options": {
       "A": "Đại hội VII (1991)",
@@ -1419,6 +1528,7 @@
   {
     "id": 110,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Nguyễn Tất Thành lần đầu tiên tiếp xúc với khẩu hiệu “Tự do – Bình đẳng – Bác ái” vào năm nào?",
     "options": {
       "A": "1904",
@@ -1432,6 +1542,7 @@
   {
     "id": 111,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Bác Hồ về nước ngày, tháng, năm nào?",
     "options": {
       "A": "28/1/1941",
@@ -1445,6 +1556,7 @@
   {
     "id": 112,
     "chapter": "Chương 2",
+    "pdfPage": 18,
     "question": "Chọn phương án trả lới đúng nhất cho tư tưởng Hồ Chí Minh?",
     "options": {
       "A": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
@@ -1458,6 +1570,7 @@
   {
     "id": 113,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Nguyễn Ái Quốc gứi bản “Yêu sách của nhân dân Việt Nam” tới Hội nghị Véc xay vào ngày, tháng, năm nào?",
     "options": {
       "A": "18/6/1917",
@@ -1471,6 +1584,7 @@
   {
     "id": 114,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Nguyễn Ái Quốc đọc “Sơ thảo lần thứ nhất về vấn đề dân tộc và thuộc địa” của Lênin vào thời gian nào?",
     "options": {
       "A": "7/1917",
@@ -1484,6 +1598,7 @@
   {
     "id": 115,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Nguyễn Ái Quốc tán thành Quốc tế III, tham gia thành lập Đảng Cộng sản Pháp khi nào?",
     "options": {
       "A": "12/1918",
@@ -1497,6 +1612,7 @@
   {
     "id": 116,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Nguyễn tất Thành lấy tên Nguyễn Ái Quốc vào thời gian nào?",
     "options": {
       "A": "18/6/1917",
@@ -1510,6 +1626,7 @@
   {
     "id": 117,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Nguyễn Ái Quốc đã thành lập Hội Việt Nam cách mạng thanh niên ở đâu?",
     "options": {
       "A": "Hương Cảng (Trung Quốc)",
@@ -1523,6 +1640,7 @@
   {
     "id": 118,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Thay mặt Hội những người Việt Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi bản “Yêu sách của nhân dân Việt Nam” tới Hội nghị Véc xay. Bản Yêu sách của nhân dân Việt Nam gồm mấy điểm:",
     "options": {
       "A": "6 điểm",
@@ -1536,6 +1654,7 @@
   {
     "id": 119,
     "chapter": "Chương 2",
+    "pdfPage": 19,
     "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?",
     "options": {
       "A": "Tinh thần hiếu học",
@@ -1549,6 +1668,7 @@
   {
     "id": 120,
     "chapter": "Chương 2",
+    "pdfPage": 20,
     "question": "Tư tưởng Hồ Chí minh về con đường cách mạng Việt Nam được hình thành về cơ bản vào năm nào?",
     "options": {
       "A": "1917",
@@ -1562,6 +1682,7 @@
   {
     "id": 121,
     "chapter": "Chương 2",
+    "pdfPage": 20,
     "question": "Các bài giảng của Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ tuyên truyền của hội Liên hiệp các dân tộc bị áp bức bóc lột lập hợp lại và xuất bản thành tác phẩm gì?",
     "options": {
       "A": "Bản án chế độ thực dân Pháp",
@@ -1575,6 +1696,7 @@
   {
     "id": 122,
     "chapter": "Chương 2",
+    "pdfPage": 20,
     "question": "Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa tam dân của Tôn",
     "options": {
       "A": "Chống phong kiến",
@@ -1588,6 +1710,7 @@
   {
     "id": 123,
     "chapter": "Chương 2",
+    "pdfPage": 20,
     "question": "Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
     "options": {
       "A": "Truyền thống văn hoá của dân tộc Việt Nam và tinh hoa văn hoá loài người.",
@@ -1601,6 +1724,7 @@
   {
     "id": 124,
     "chapter": "Chương 2",
+    "pdfPage": 20,
     "question": "Hồ Chí Minh viết: “Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do” ở tác phẩm nào?",
     "options": {
       "A": "Đường cách mạng",
@@ -1614,6 +1738,7 @@
   {
     "id": 125,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Trong các truyền thống văn hoá dân tộc hình thành nên tư tưởng Hồ",
     "options": {
       "A": "Chủ nghĩa yêu nước",
@@ -1627,6 +1752,7 @@
   {
     "id": 126,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ CNTB?",
     "options": {
       "A": "Con bạch tuộc.",
@@ -1640,6 +1766,7 @@
   {
     "id": 127,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Theo Hồ Chí Minh, học chủ nghĩa Mác- Lênin là để làm gì?",
     "options": {
       "A": "Học thuộc các luận điểm lí luận.",
@@ -1653,6 +1780,7 @@
   {
     "id": 128,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Theo Hồ Chí Minh, “giặc nội xâm” bao gồm những loại nào?",
     "options": {
       "A": "Tham ô",
@@ -1666,6 +1794,7 @@
   {
     "id": 129,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Theo Hồ Chí Minh, ở đời và làm người thì phải làm gì?",
     "options": {
       "A": "Yêu nước",
@@ -1679,6 +1808,7 @@
   {
     "id": 130,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Nhờ tiếp thu yếu tố nào mà Nguyễn Ái Quốc đã từ một nhà yêu nước",
     "options": {
       "A": "Chủ nghĩa Mác – Lênin",
@@ -1692,6 +1822,7 @@
   {
     "id": 131,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng",
     "options": {
       "A": "Họ đông nhưng không mạnh.",
@@ -1705,6 +1836,7 @@
   {
     "id": 132,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Tại hội Đảng toàn quốc lần thứ VI, Đảng ta quyết định đường lối đổi",
     "options": {
       "A": "Đổi mới chính trị",
@@ -1718,6 +1850,7 @@
   {
     "id": 133,
     "chapter": "Chương 2",
+    "pdfPage": 21,
     "question": "Bác Hồ về nước ngày, tháng, năm nào?",
     "options": {
       "A": "28/1/1941",
@@ -1731,6 +1864,7 @@
   {
     "id": 134,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Chọn cùm từ thích hợp điền vào chỗ trống [……] theo tư tưởng Hồ Chí Minh. “Muốn người ta giúp cho thì trước hết mình phải [……]”",
     "options": {
       "A": "Giúp người ta trước",
@@ -1744,6 +1878,7 @@
   {
     "id": 135,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Một trong những giá trị truyền thống tốt đẹp của dân tộc Việt Nam được Hồ Chí Minh tiếp thu để hình thành tư tưởng của mình là:",
     "options": {
       "A": "Chủ nghĩa Mác – Lênin",
@@ -1757,6 +1892,7 @@
   {
     "id": 136,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Tư tưởng Hồ Chí Minh được hình thành và phát triển qua mấy giai",
     "options": {
       "A": "3 giai đoạn",
@@ -1770,6 +1906,7 @@
   {
     "id": 137,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Nguyễn Ái Quốc mở lớp huấn luyện chính trị tại số nhà bao nhiêu phố Văn Minh (Quảng Châu)?",
     "options": {
       "A": "Số 13/1",
@@ -1783,6 +1920,7 @@
   {
     "id": 138,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Hồ Chí Minh được UNESCO ra quyết định công nhận là anh hùng giải phóng dân tộc Việt Nam và danh nhân văn hóa kiệt xuất của thế giới vào năm nào?",
     "options": {
       "A": "Năm 1969",
@@ -1796,6 +1934,7 @@
   {
     "id": 139,
     "chapter": "Chương 2",
+    "pdfPage": 22,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […...] Tháng 7 năm 1920, Hồ Chí Minh đọc tác phẩm [......] của Lênin",
     "options": {
       "A": "Tác phẩm “Làm gì”",
@@ -1809,6 +1948,7 @@
   {
     "id": 140,
     "chapter": "Chương 2",
+    "pdfPage": 23,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […...] Trong Cương lĩnh Chính trị đầu tiên của Đảng do Nguyễn Ái Quốc soạn thảo đã xác định phương hướng chiến lược là: “làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới […...]”.",
     "options": {
       "A": "Chủ nghĩa tư bản",
@@ -1822,6 +1962,7 @@
   {
     "id": 141,
     "chapter": "Chương 2",
+    "pdfPage": 23,
     "question": "Trong các nguồn gốc hình thành tư tưởng Hồ Chí Minh, nguồn gốc quan trọng nhất, quyết định là […...]",
     "options": {
       "A": "Tư tưởng Hồ Chí Minh.",
@@ -1835,6 +1976,7 @@
   {
     "id": 142,
     "chapter": "Chương 2",
+    "pdfPage": 23,
     "question": "Yếu tố nào là cơ sở thế giới quan và phương pháp luận của tư tưởng Hồ Chí Minh?",
     "options": {
       "A": "Tư tưởng Hồ Chí Minh.",
@@ -1848,6 +1990,7 @@
   {
     "id": 143,
     "chapter": "Chương 2",
+    "pdfPage": 23,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […...] theo Hồ Chí Minh: “Muốn cứu nước và […...] không con đường nào khác con đường […...]”.",
     "options": {
       "A": "Giải phóng dân tộc; cách mạng vô sản;",
@@ -1861,6 +2004,7 @@
   {
     "id": 144,
     "chapter": "Chương 2",
+    "pdfPage": 24,
     "question": "Hãy lựa chọn câu trả lời đúng nhất:",
     "options": {
       "A": "Hồ Chí Minh là anh hùng giải phóng dân tộc của việt Nam",
@@ -1874,6 +2018,7 @@
   {
     "id": 145,
     "chapter": "Chương 2",
+    "pdfPage": 24,
     "question": "Chọn từ điền vào chố trống [.......] để hoàn thiện câu: Văn kiện Đại hội XI của Đảng chỉ rõ: Tư tưởng Hồ Chí Minh [.........] cho cuộc đấu tranh của nhân dân ta giành thắng lợi, là [......] to lớn của Đảng và dân tộc ta.",
     "options": {
       "A": "Mở đường; tài sản tinh thần",
@@ -1887,6 +2032,7 @@
   {
     "id": 146,
     "chapter": "Chương 3",
+    "pdfPage": 24,
     "question": "Chon phương án trả lời đúng với tư tưởng Hồ Chí Minh:",
     "options": {
       "A": "Từ năm 890 đến 1911 : Thời kỳ nghiên cứu, khảo sát thực tế, đến với chủ nghia Mác –",
@@ -1900,6 +2046,7 @@
   {
     "id": 147,
     "chapter": "Chương 3",
+    "pdfPage": 24,
     "question": "Bản yêu sách của nhân dân An Nam được Nguyễn Ái Quốc gửi đến hội nghị Versailles năm 1919 nhằm:",
     "options": {
       "A": "Đòi quyền bình đẳng về mặt pháp lý và đòi quyền tự do dân chủ cho nhân dân An Nam",
@@ -1913,6 +2060,7 @@
   {
     "id": 148,
     "chapter": "Chương 3",
+    "pdfPage": 25,
     "question": "Theo Hồ Chí Minh, độc lập dân tộc phải:",
     "options": {
       "A": "Gắn liền với tự do của nhân dân",
@@ -1926,6 +2074,7 @@
   {
     "id": 149,
     "chapter": "Chương 3",
+    "pdfPage": 25,
     "question": "“Làm cho nước Nam được hoàn toàn độc lập ... dân chúng được tự do ... thủ tiêu hết các thức quốc trái ...”. Đoạn trích này trên được trích trong:",
     "options": {
       "A": "Học thuyết tam dân của Tôn Trung Sơn",
@@ -1939,6 +2088,7 @@
   {
     "id": 150,
     "chapter": "Chương 3",
+    "pdfPage": 25,
     "question": "“nước Việt Nam là một, dân tộc Việt Nam là một”, được Hồ Chí Minh phát biểu lần đầu vào thời gian nào:",
     "options": {
       "A": "Tháng 2 năm 1958",
@@ -1952,6 +2102,7 @@
   {
     "id": 151,
     "chapter": "Chương 3",
+    "pdfPage": 25,
     "question": "“Dù khó khăn gian khổ đến mấy, nhân dân ta nhất định sẽ hoàn toàn thắng lợi. Đế quốc Mỹ nhất định phải cút khỏi nước ta. Tổ quốc ta nhất định sẽ thống nhất. Đồng bào Nam Bắc nhất định sum họp một nhà”. Đoạn trích này của Hồ Chí Minh được trích trong:",
     "options": {
       "A": "Di chúc",
@@ -1965,6 +2116,7 @@
   {
     "id": 152,
     "chapter": "Chương 3",
+    "pdfPage": 25,
     "question": "Một trong những điểm sáng tạo của Hồ Chí Minh khi nghiên cứu chủ nghĩa Mác Lênin thể hiện ở quan điểm:",
     "options": {
       "A": "Giải phóng dân tộc gắn với giải phóng giai cấp, trong đó giải phóng dân tộc là trước hết, trên hết; độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
@@ -1978,6 +2130,7 @@
   {
     "id": 153,
     "chapter": "Chương 3",
+    "pdfPage": 26,
     "question": "Chọn nội dung đúng nhất trong tư tưởng Hồ Chí Minh. Đảng cộng sản là:",
     "options": {
       "A": "Đội tiên phong của giai cấp công nhân và nhân dân lao động kiên quyết nhất, hăng hái nhất, trong sạch nhất, tận tâm tận lực phụng sự Tổ quốc",
@@ -1991,6 +2144,7 @@
   {
     "id": 154,
     "chapter": "Chương 3",
+    "pdfPage": 26,
     "question": "Theo Hồ Chí Minh, lực lượng cách mạng giải phóng dân tộc phải bao gồm:",
     "options": {
       "A": "Tầng lớp trí thức và công nhân",
@@ -2004,6 +2158,7 @@
   {
     "id": 155,
     "chapter": "Chương 3",
+    "pdfPage": 26,
     "question": "Trong các lực lượng của cách mạng, theo Hồ Chí Minh:",
     "options": {
       "A": "Trí thức là chủ của cách mệnh là gốc của cách mệnh",
@@ -2017,6 +2172,7 @@
   {
     "id": 156,
     "chapter": "Chương 3",
+    "pdfPage": 26,
     "question": "Theo Hồ Chí Minh, chủ nghĩa xã hội là:",
     "options": {
       "A": "CNXH trước hết nhằm làm cho nhân dân lao động thoát nạn bần cùng, là làm cho mọi người có công ăn việc làm, được ấm no và sống một đời hạnh phúc, là làm sao cho dân giàu nước mạnh.",
@@ -2030,6 +2186,7 @@
   {
     "id": 157,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Theo Hồ Chí Minh, các nước tiến lên chủ nghĩa cộng sản diễn ra qua:",
     "options": {
       "A": "1 phương thức",
@@ -2043,6 +2200,7 @@
   {
     "id": 158,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Theo Hồ Chí Minh, các nước tiến lên chủ nghĩa xã hội:",
     "options": {
       "A": "Theo những con đường giống nhau",
@@ -2056,6 +2214,7 @@
   {
     "id": 159,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Chọn đáp án sai trong tư tưởng Hồ Chí Minh về XHCN:",
     "options": {
       "A": "XHCN là xã hội có chế độ dân chủ",
@@ -2069,6 +2228,7 @@
   {
     "id": 160,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Trong cách mạng xã hội chủ nghĩa, theo Hồ Chí Minh:",
     "options": {
       "A": "“Xây” quan trọng hơn “chống”",
@@ -2082,6 +2242,7 @@
   {
     "id": 161,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Theo Hồ Chí Minh, thời kỳ quá độ là thời kỳ:",
     "options": {
       "A": "Cải biến sâu sắc nhất, nhưng phức tạp, lâu dài, khó khăn, gian khổ.",
@@ -2095,6 +2256,7 @@
   {
     "id": 162,
     "chapter": "Chương 3",
+    "pdfPage": 27,
     "question": "Đặc điểm lớn nhất của thời kỳ quá độ ở Việt Nam theo Hồ Chí Minh là:",
     "options": {
       "A": "Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH, không trải qua giai đoạn phát triển tư bản chủ nghĩa",
@@ -2108,6 +2270,7 @@
   {
     "id": 163,
     "chapter": "Chương 3",
+    "pdfPage": 28,
     "question": "Có bao nhiêu điều kiện để đảm bảo độc lập dân tộc gắn liền với CNXH ở Việt Nam",
     "options": {
       "A": "1",
@@ -2121,6 +2284,7 @@
   {
     "id": 164,
     "chapter": "Chương 3",
+    "pdfPage": 28,
     "question": "Điền vào chỗ trống trong đoạn trích sau của Hồ Chí Minh: “Hỡi anh em các nước thuộc địa, Anh em phải làm thế nào để được giải phóng? Vận dụng công thức của Các Mác, chúng tôi xin nói với anh em rằng công cuộc giải phóng anh em chỉ có thể thực hiện được bằng ......”:",
     "options": {
       "A": "Sự hỗ trợ của Quốc tế cộng sản",
@@ -2134,6 +2298,7 @@
   {
     "id": 165,
     "chapter": "Chương 3",
+    "pdfPage": 28,
     "question": "Theo Hồ Chí Minh: vấn đề độc lập được hiểu là:",
     "options": {
       "A": "Độc lập là quyền bất khả xâm phạm, thiêng liêng nhất của các dân tộc",
@@ -2147,6 +2312,7 @@
   {
     "id": 166,
     "chapter": "Chương 3",
+    "pdfPage": 28,
     "question": "Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do:",
     "options": {
       "A": "Giai cấp công nhân lãnh đạo",
@@ -2160,6 +2326,7 @@
   {
     "id": 167,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Động lực cơ bản và trực tiếp của cách mạng XHCN là gì?",
     "options": {
       "A": "Giai cấp nông dân",
@@ -2173,6 +2340,7 @@
   {
     "id": 168,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Theo Hồ Chí Minh, để phát huy sức mạnh cá nhân người lao động, cần",
     "options": {
       "A": "Tác động vào nhu cầu và lợi ích của con người",
@@ -2186,6 +2354,7 @@
   {
     "id": 169,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ là:",
     "options": {
       "A": "Xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội",
@@ -2199,6 +2368,7 @@
   {
     "id": 170,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Theo Hồ Chí Minh, trong thời kỳ quá độ, thành phần kinh tế phải đảm bảo ưu tiên cho nó phát triển là:",
     "options": {
       "A": "Kinh tế hợp tác xã",
@@ -2212,6 +2382,7 @@
   {
     "id": 171,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Hồ Chí mInh đề cập đến chủ nghĩa xã hội nhiều nhất vào thời gian nào?",
     "options": {
       "A": "1920-1930",
@@ -2225,6 +2396,7 @@
   {
     "id": 172,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Theo Hồ Chí Minh, mục tiêu của chủ nghĩa xã hội là:",
     "options": {
       "A": "Không ngững cải thiện đời sống nhân dân",
@@ -2238,6 +2410,7 @@
   {
     "id": 173,
     "chapter": "Chương 3",
+    "pdfPage": 29,
     "question": "Theo Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng phải được tạo",
     "options": {
       "A": "Nền nông nghiệp hiện đại",
@@ -2251,6 +2424,7 @@
   {
     "id": 174,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Theo Hồ Chí Minh, kẻ thù hung ác của chủ nghĩa xã hội là gì?",
     "options": {
       "A": "Khoa học – kỹ thuật phát triển",
@@ -2264,6 +2438,7 @@
   {
     "id": 175,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Về tổ chức hợp tác xã hội Hồ Chí Minh nhấn mạnh nguyên tắc:",
     "options": {
       "A": "Làm đồng loạt",
@@ -2277,6 +2452,7 @@
   {
     "id": 176,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, Hồ Chí Minh chủ trương",
     "options": {
       "A": "Không xóa bỏ quyền sở hữu về tư liệu sản xuất của họ",
@@ -2290,6 +2466,7 @@
   {
     "id": 177,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Theo Hồ Chí Minh, cách làm của chủ nghĩa xã hội là:",
     "options": {
       "A": "Phải dựa vào sự giúp đỡ của các nước xã hội chủ nghĩa",
@@ -2303,6 +2480,7 @@
   {
     "id": 178,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Theo Hồ Chí Minh, con đường đi lên chủ nghĩa xã hội trong nông nghiệp bao gồm những bước:",
     "options": {
       "A": "Cải cách ruộng đất",
@@ -2316,6 +2494,7 @@
   {
     "id": 179,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Hồ Chí Minh nói về loại hình hợp tác xã khi nào?",
     "options": {
       "A": "1920",
@@ -2329,6 +2508,7 @@
   {
     "id": 180,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Luận điểm nào sau đây là sai: Để đảm bảo thực hiện thắng lợi CNXH ở Việt Nam trong thời kỳ quá độ, theo Hồ Chí Minh phải:",
     "options": {
       "A": "Tăng cường sự lãnh đạo của Đảng, vai trò quản lý của Nhà nước",
@@ -2342,6 +2522,7 @@
   {
     "id": 181,
     "chapter": "Chương 3",
+    "pdfPage": 30,
     "question": "Để đảm bảo thực hiện thắng lợi CNXH ở Việt Nam trong thời kỳ quá độ, theo Hồ Chí Minh phải:",
     "options": {
       "A": "Tăng cường sự lãnh đạo của Đảng, vai trò quản lý của Nhà nước",
@@ -2355,6 +2536,7 @@
   {
     "id": 182,
     "chapter": "Chương 3",
+    "pdfPage": 31,
     "question": "Theo tư tưởng Hồ Chí Minh, trong thời kỳ quá độ còn tồn tại hình",
     "options": {
       "A": "Sở hữu của nhà nước",
@@ -2368,6 +2550,7 @@
   {
     "id": 183,
     "chapter": "Chương 3",
+    "pdfPage": 31,
     "question": "Theo tư tưởng Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội, trước hết cần có cái gì?",
     "options": {
       "A": "Con người năng động, sáng tạo",
@@ -2381,6 +2564,7 @@
   {
     "id": 184,
     "chapter": "Chương 3",
+    "pdfPage": 31,
     "question": "Theo Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
     "options": {
       "A": "Làm theo năng lực, hưởng theo nhu cầu",
@@ -2394,6 +2578,7 @@
   {
     "id": 185,
     "chapter": "Chương 3",
+    "pdfPage": 31,
     "question": "Theo Hồ Chí Minh, muốn cho chủ nghĩa xã hội được thực hiện, cần có những yếu tố nào?",
     "options": {
       "A": "Đất kỹ nghệ.",
@@ -2407,6 +2592,7 @@
   {
     "id": 186,
     "chapter": "Chương 3",
+    "pdfPage": 31,
     "question": "Chọn phương án trả lời sai: Theo Hồ Chí Minh, để xác định bước đi và tìm cách làm cho chủ nghĩa xã hội phù hợp với Việt Nam cần phải:",
     "options": {
       "A": "Có thể tham khảo, học tập kinh nghiệm của các nước anh em",
@@ -2420,6 +2606,7 @@
   {
     "id": 187,
     "chapter": "Chương 3",
+    "pdfPage": 32,
     "question": "Theo Hồ Chí Minh, đặc trưng nổi bật về chính trị của chủ nghĩa xã hội là gì?",
     "options": {
       "A": "Đảng Cộng sản lãnh đạo",
@@ -2433,6 +2620,7 @@
   {
     "id": 188,
     "chapter": "Chương 3",
+    "pdfPage": 32,
     "question": "Theo Hồ Chí Minh, nội dung nào được coi là nhiệm vụ trung tâm của thời kỳ quá độ lên chủ nghĩa xã hội:",
     "options": {
       "A": "Công nghiệp hóa",
@@ -2446,6 +2634,7 @@
   {
     "id": 189,
     "chapter": "Chương 3",
+    "pdfPage": 32,
     "question": "Theo Hồ Chí Minh, trong mối quan hệ giữa hai nhiệm vụ cải tạo xã hội cũ và xây dựng xã hội mới thì:",
     "options": {
       "A": "Cải tạo xã hội cũ là nhiệm vụ trung tâm, chủ chốt",
@@ -2459,6 +2648,7 @@
   {
     "id": 190,
     "chapter": "Chương 3",
+    "pdfPage": 32,
     "question": "Theo Hồ Chí Minh, yếu tố nào là hạt nhân trong hệ động lực của chủ nghĩa xã hội?",
     "options": {
       "A": "Sự quản lý của nhà nước",
@@ -2472,6 +2662,7 @@
   {
     "id": 191,
     "chapter": "Chương 3",
+    "pdfPage": 33,
     "question": "Theo Hồ Chí Minh, tại sao cần thực hiện chế độ làm khoán dưới chủ nghĩa xã hội?",
     "options": {
       "A": "Khuyến khích được lợi ích của người lao động",
@@ -2485,6 +2676,7 @@
   {
     "id": 192,
     "chapter": "Chương 3",
+    "pdfPage": 33,
     "question": "Theo Hồ Chí Minh, trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta còn tồn tại mấy hình thức sở hữu?",
     "options": {
       "A": "2 hình thức",
@@ -2498,6 +2690,7 @@
   {
     "id": 193,
     "chapter": "Chương 3",
+    "pdfPage": 33,
     "question": "Theo Hồ Chí Minh, trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta còn tồn tại mấy thành phần kinh tế?",
     "options": {
       "A": "3",
@@ -2511,6 +2704,7 @@
   {
     "id": 194,
     "chapter": "Chương 3",
+    "pdfPage": 33,
     "question": "Theo Hồ Chí Minh, biện pháp nào quan trọng nhất trong xây dựng chủ nghĩa xã hội?",
     "options": {
       "A": "Tranh thủ tối đa sự giúp đỡ, viện trợ quốc tế",
@@ -2524,6 +2718,7 @@
   {
     "id": 195,
     "chapter": "Chương 3",
+    "pdfPage": 33,
     "question": "Đặc điểm nổi bật nhất của tình hình thế giới hiện nay là gì?",
     "options": {
       "A": "Có nguy cơ diễn ra chiến tranh thế giới thứ ba",
@@ -2537,6 +2732,7 @@
   {
     "id": 196,
     "chapter": "Chương 3",
+    "pdfPage": 34,
     "question": "Chọn phương án trả lời sai trong các nhận định sau đây:",
     "options": {
       "A": "Cách mạng khoa học và công nghệ thúc đẩy xu thế toàn cầu hóa",
@@ -2550,6 +2746,7 @@
   {
     "id": 197,
     "chapter": "Chương 3",
+    "pdfPage": 34,
     "question": "Xu thế phát triển chủ đạo của thế giới hiện nay là:",
     "options": {
       "A": "Đối đầu giữa các quốc gia và dân tộc .",
@@ -2563,6 +2760,7 @@
   {
     "id": 198,
     "chapter": "Chương 3",
+    "pdfPage": 34,
     "question": "Thành tựu nổi bật nhất của Việt Nam về chính trị trong những năm đổi mới là:",
     "options": {
       "A": "Chính trị ổn định .",
@@ -2576,6 +2774,7 @@
   {
     "id": 199,
     "chapter": "Chương 3",
+    "pdfPage": 34,
     "question": "Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:",
     "options": {
       "A": "Trải qua nhiều bước",
@@ -2589,6 +2788,7 @@
   {
     "id": 200,
     "chapter": "Chương 3",
+    "pdfPage": 34,
     "question": "Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:",
     "options": {
       "A": "Theo bước đi của các nước xã hội chủ nghĩa",
@@ -2602,6 +2802,7 @@
   {
     "id": 201,
     "chapter": "Chương 3",
+    "pdfPage": 35,
     "question": "Căn cứ vào thực tiến xây dựng chủ nghĩa xã hội ở Việt Nam, theo Hồ Chí Minh, độ dài của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
     "options": {
       "A": "15 năm",
@@ -2615,6 +2816,7 @@
   {
     "id": 202,
     "chapter": "Chương 3",
+    "pdfPage": 35,
     "question": "Theo Hồ Chí Minh có mấy loại hình đi lên chủ nghĩa xã hội?",
     "options": {
       "A": "Một",
@@ -2628,6 +2830,7 @@
   {
     "id": 203,
     "chapter": "Chương 3",
+    "pdfPage": 35,
     "question": "Theo Hồ Chí Minh: Việt Nam quá độ lên chủ nghĩa xã hội thuộc loại hình nào?",
     "options": {
       "A": "Quá độ trực tiếp",
@@ -2641,6 +2844,7 @@
   {
     "id": 204,
     "chapter": "Chương 3",
+    "pdfPage": 35,
     "question": "Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
     "options": {
       "A": "Xây dựng nền tảng vật chất và kỷ thuật của chủ nghĩa xã hội",
@@ -2654,6 +2858,7 @@
   {
     "id": 205,
     "chapter": "Chương 3",
+    "pdfPage": 35,
     "question": "Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, trong thời kỳ quá độ còn tồn tại các hình thức sở hữu:",
     "options": {
       "A": "Sỡ hữu nhà nước",
@@ -2667,6 +2872,7 @@
   {
     "id": 206,
     "chapter": "Chương 4",
+    "pdfPage": 35,
     "question": "Tìm luận điểm không đúng với tư tưởng Hồ Chí Minh:",
     "options": {
       "A": "Công nghiệp hóa là con đường tất yếu phải đi của chúng ta",
@@ -2680,6 +2886,7 @@
   {
     "id": 207,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Tư tưởng Hồ Chí Minh về Đảng Cộng sản được hình thành trên cơ sở",
     "options": {
       "A": "Lý luận",
@@ -2693,6 +2900,7 @@
   {
     "id": 208,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam là Đảng của:",
     "options": {
       "A": "Giai cấp công nhân",
@@ -2706,6 +2914,7 @@
   {
     "id": 209,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Theo Hồ Chí Minh, mục tiêu, lý tưởng của Đảng Cộng sản Việt Nam là:",
     "options": {
       "A": "Vì lợi ích của giai cấp công nhân",
@@ -2719,6 +2928,7 @@
   {
     "id": 210,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Ai là người chủ trì Hội nghị thành lập Đảng Cộng sản Việt Nam?",
     "options": {
       "A": "Nguyễn Ái Quốc",
@@ -2732,6 +2942,7 @@
   {
     "id": 211,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Đại biểu các tổ chức nào đã tham dự Hội nghị thành lập Đảng năm 1930?",
     "options": {
       "A": "Đông Dương CS Đảng, An Nam CS Đảng và Đông Dương CS Liên Đoàn",
@@ -2745,6 +2956,7 @@
   {
     "id": 212,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Theo Hồ Chí Minh, một trong những nguyên tắc tổ chức và sinh hoạt",
     "options": {
       "A": "Thiểu số phục tùng đa số",
@@ -2758,6 +2970,7 @@
   {
     "id": 213,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Bản chất giai cấp công nhân của Đảng Cộng sản Việt Nam thể hiện ở:",
     "options": {
       "A": "Nền tảng lý luận, mục tiêu, nguyên tắc tổ chức của Đảng",
@@ -2771,6 +2984,7 @@
   {
     "id": 214,
     "chapter": "Chương 4",
+    "pdfPage": 36,
     "question": "Chon câu trả lời đúng nhất theo tư tưởng Hồ Chí Minh:",
     "options": {
       "A": "Đảng Cộng sản Việt Nam là Đảng của giai cấp công nhân",
@@ -2784,6 +2998,7 @@
   {
     "id": 215,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam phải được xây dựng",
     "options": {
       "A": "3 nguyên tắc",
@@ -2797,6 +3012,7 @@
   {
     "id": 216,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Nguyên tắc xây dựng Đảng kiểu mới theo tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Tập trung dân chủ; Tập thể lãnh đạo cá nhân phụ trách;",
@@ -2810,6 +3026,7 @@
   {
     "id": 217,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Luận điểm: “Đảng muốn vững thì phải có chủ nghĩa làm cột, trong Đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa như người không có trí khôn, tàu không có bản chỉ nam”, được trích từ tác phẩm nào của Hồ Chí Minh?",
     "options": {
       "A": "Tuyên ngôn độc lập",
@@ -2823,6 +3040,7 @@
   {
     "id": 218,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Đảng Cộng sản Việt Nam trở thành Đảng cầm quyền năm nào?",
     "options": {
       "A": "1930 b",
@@ -2836,6 +3054,7 @@
   {
     "id": 219,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Hồ Chí Minh đã xác định: “Đảng ta là một đảng cầm quyền” trong văn kiên nào?",
     "options": {
       "A": "Chánh cương vắn tắt của Đảng",
@@ -2849,6 +3068,7 @@
   {
     "id": 220,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "\"Chúng ta làm cách mệnh thì cũng phải liên lạc tất cả những đảng cách mệnh trong thế giới để chống lại tư bản và đế quốc chủ nghĩa\". Câu nói đó được Nguyễn Ái Quốc viết trong tác phẩm nào?",
     "options": {
       "A": "Bản án chế độ thực dân Pháp",
@@ -2862,6 +3082,7 @@
   {
     "id": 221,
     "chapter": "Chương 4",
+    "pdfPage": 37,
     "question": "Luận điểm: “Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân” được trích từ tác phẩm nào của Hồ Chí Minh?",
     "options": {
       "A": "Sửa đổi lối làm việc",
@@ -2875,6 +3096,7 @@
   {
     "id": 222,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Quan điểm: “Đảng là đạo đức, là văn minh” được Hồ Chí Minh trình",
     "options": {
       "A": "Bác cáo Chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng",
@@ -2888,6 +3110,7 @@
   {
     "id": 223,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Theo Hồ Chí Minh, trong quan hệ với quần chúng, Đảng phải:",
     "options": {
       "A": "Luôn nghe theo quần chúng",
@@ -2901,6 +3124,7 @@
   {
     "id": 224,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Theo Hồ Chí Minh, nguy cơ lớn nhất của một đảng cầm quyền là:",
     "options": {
       "A": "Diến biến hòa bình",
@@ -2914,6 +3138,7 @@
   {
     "id": 225,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Chọn cụm từ điền vào chỗ trống […...]: Trong Di chúc, Hồ Chí Minh đã xác định: “Đảng ta là một đảng cầm quyền. Mỗi đảng viên phải thực sự thấm nhuần [……]”.",
     "options": {
       "A": "Mục tiêu của Đảng",
@@ -2927,6 +3152,7 @@
   {
     "id": 226,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam phải lấy chủ d - Xác định năng lực của Đảng nghĩa Mác – Lênin ”làm cốt”, nghĩa là:",
     "options": {
       "A": "Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác – Lênin làm nền tảng tư tưởng",
@@ -2940,6 +3166,7 @@
   {
     "id": 227,
     "chapter": "Chương 4",
+    "pdfPage": 38,
     "question": "Nguyễn Ái Quốc đã trích dẫn luận điểm nổi tiếng của V. I. Lênin : \"không có lý luận cách mệnh thì không có cách mệnh vận động ... chỉ có theo lý luận cách mệnh tiền phong, Đảng cách mệnh mới làm nổi trách nhiệm cách mệnh tiền phong\" câu nói được ghi ở trang đầu tiên của cuốn sách nào?",
     "options": {
       "A": "Bản án chế độ thực dân Pháp",
@@ -2953,6 +3180,7 @@
   {
     "id": 228,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "“Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do”. Hồ Chí Minh nói câu đó trong văn kiện nào?",
     "options": {
       "A": "Quân lệnh số 1 của Uỷ ban khởi nghĩa toàn quốc.",
@@ -2966,6 +3194,7 @@
   {
     "id": 229,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "Tại sao nói Đảng Cộng sản Việt Nam ra đời đánh dấu bước ngoặt",
     "options": {
       "A": "Vì đó là một tất yếu lịch sử, phản ánh đúng xu thế khách quan của lịch sử cách mạng Việt Nam.",
@@ -2979,6 +3208,7 @@
   {
     "id": 230,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "Mâu thuẫn cơ bản và chủ yếu ở Việt Nam đầu thế kỷ XX là mâu thuẫn nào?",
     "options": {
       "A": "Mâu thuẫn giữa giai cấp nông dân với giai cấp địa chủ phong kiến.",
@@ -2992,6 +3222,7 @@
   {
     "id": 231,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "Khi nào phong trào công nhân Việt Nam hoàn toàn trở thành một phong trào tự giác?",
     "options": {
       "A": "Năm 1920 (tổ chức công hội ở Sài Gòn được thành lập)",
@@ -3005,6 +3236,7 @@
   {
     "id": 232,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "Chọn cụm từ đúng điền vào chỗ trống […...] Trong xây dựng Đảng, Hồ Chí Minh xác định: “Mục đích phê bình cốt để [……], giúp nhau tiến bộ”.",
     "options": {
       "A": "Sửa chữa sai lầm",
@@ -3018,6 +3250,7 @@
   {
     "id": 233,
     "chapter": "Chương 4",
+    "pdfPage": 39,
     "question": "Đông Dương Cộng Sản Đảng và An Nam Cộng Sản Đảng được ra đời",
     "options": {
       "A": "Tân việt cách mạng Đảng",
@@ -3031,6 +3264,7 @@
   {
     "id": 234,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam là sản phẩm",
     "options": {
       "A": "Phong trào giải phóng dân tộc",
@@ -3044,6 +3278,7 @@
   {
     "id": 235,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Mặt trận Việt Nam độc lập đồng minh (Mặt trận Việt Minh) được",
     "options": {
       "A": "1940",
@@ -3057,6 +3292,7 @@
   {
     "id": 236,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Liên minh giữa giai cấp công nhân, nông dân và tầng lớp trí thức là",
     "options": {
       "A": "Mong muốn của công nhân",
@@ -3070,6 +3306,7 @@
   {
     "id": 237,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Đảng cộng sản Việt Nam là đội tiên phong của […. …] Việt Nam, đại biểu trung thành lợi ích của giai cấp công nhân, nhân dân lao động và của cả dân tộc.",
     "options": {
       "A": "Giai cấp công nhân.",
@@ -3083,6 +3320,7 @@
   {
     "id": 238,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Theo Hồ Chí Minh, Đảng phải thường xuyên tự đổi mới, tự chỉnh đốn",
     "options": {
       "A": "Chính trị.",
@@ -3096,6 +3334,7 @@
   {
     "id": 239,
     "chapter": "Chương 4",
+    "pdfPage": 40,
     "question": "Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là Đảng của giai cấp công nhân, đồng thời là Đảng của nhân dân lao động và của dân tộc Việt Nam nhằm:",
     "options": {
       "A": "Xác định vị thế cầm quyền của Đảng",
@@ -3109,6 +3348,7 @@
   {
     "id": 240,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Theo Hồ Chí Minh, nền tảng tư tưởng của Đảng phải dựa trên:",
     "options": {
       "A": "Chủ nghĩa Mác – Lênin",
@@ -3122,6 +3362,7 @@
   {
     "id": 241,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Sự ra đời của Đảng cộng sản Việt Nam là kết hợp giữa",
     "options": {
       "A": "Chủ nghĩa Mác – Lênin; phong trào dân chủ; phong trào công nhân",
@@ -3135,6 +3376,7 @@
   {
     "id": 242,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Bước phát triển sáng tạo của Hồ Chí Minh so với lý luận của Lênin về đảng kiểu mới của giai cấp vô sản thể hiện ở quan điểm:",
     "options": {
       "A": "Xây dựng Đảng để cho Đảng xứng đáng là Đảng đạo đức, văn minh",
@@ -3148,6 +3390,7 @@
   {
     "id": 243,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Theo Hồ Chí Minh, Đảng phải:",
     "options": {
       "A": "Phục vụ lợi ích của giai cấp công nhân",
@@ -3161,6 +3404,7 @@
   {
     "id": 244,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Theo Hồ Chí Minh, phải coi trọng công tác cán bộ, vì:",
     "options": {
       "A": "Cán bộ mang chính sách của Đảng và chính phủ đến với nhân dân và ngược lại đem tình hình của nhân dân báo cáo cho Đảng và cho chính phủ.",
@@ -3174,6 +3418,7 @@
   {
     "id": 245,
     "chapter": "Chương 4",
+    "pdfPage": 41,
     "question": "Theo Hồ Chí Minh: trong công tác cán bộ cần phải:",
     "options": {
       "A": "Hiểu, đánh giá đúng cán bộ; chú trọng huấn luyện, đề bạt đúng cán bộ",
@@ -3187,6 +3432,7 @@
   {
     "id": 246,
     "chapter": "Chương 4",
+    "pdfPage": 42,
     "question": "Chọn ý sai. Đâu không phải nội dung trong tư tưởng Hồ Chí Minh về Nhà nước Việt Nam:",
     "options": {
       "A": "Nhà nước Việt Nam là nhà nước của toàn dân",
@@ -3200,6 +3446,7 @@
   {
     "id": 247,
     "chapter": "Chương 4",
+    "pdfPage": 42,
     "question": "Đảng Cộng sản Việt Nam cầm quyền bằng:",
     "options": {
       "A": "Bằng đường lối quan điểm, chủ trương để nhà nước thể chế hóa thành pháp luật, chính sách, kế hoạch.",
@@ -3213,6 +3460,7 @@
   {
     "id": 248,
     "chapter": "Chương 4",
+    "pdfPage": 42,
     "question": "Bản chất giai cấp của nhà nước Việt Nam thể hiện ở:",
     "options": {
       "A": "Tính dân chủ",
@@ -3226,6 +3474,7 @@
   {
     "id": 249,
     "chapter": "Chương 4",
+    "pdfPage": 42,
     "question": "Bản chất giai cấp công nhân của nhà nước Việt Nam thể hiện ở nguyên tắc:",
     "options": {
       "A": "Nói đi đôi với làm",
@@ -3239,6 +3488,7 @@
   {
     "id": 250,
     "chapter": "Chương 4",
+    "pdfPage": 42,
     "question": "Nhà nước của nhân dân là:",
     "options": {
       "A": "Nhà nước do dân, vì dân",
@@ -3252,6 +3502,7 @@
   {
     "id": 251,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Theo Hồ Chí Minh, nhân dân thực thi quyền lực nhà nước thông qua hình thức:",
     "options": {
       "A": "Bầu cử",
@@ -3265,6 +3516,7 @@
   {
     "id": 252,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Chọn ý đúng",
     "options": {
       "A": "Luật pháp dân chủ là công cụ quyền lực của nhân dân",
@@ -3278,6 +3530,7 @@
   {
     "id": 253,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Theo Hồ Chí Minh, Nhà nước do nhân dân là:",
     "options": {
       "A": "Là nhà nước do nhân dân lập nên sau thắng lợi của cách mạng dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
@@ -3291,6 +3544,7 @@
   {
     "id": 254,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Tư tưởng Hồ Chí Minh về Hiếp pháp và pháp luật được thể hiện lần đầu trong:",
     "options": {
       "A": "Bản án chế độ thực dân Pháp",
@@ -3304,6 +3558,7 @@
   {
     "id": 255,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Trong tư tưởng Hồ Chí Minh, nhà nước quản lý xã hội chủ yếu bằng:",
     "options": {
       "A": "Cưỡng chế thi hành",
@@ -3317,6 +3572,7 @@
   {
     "id": 256,
     "chapter": "Chương 4",
+    "pdfPage": 43,
     "question": "Theo Hồ Chí Minh, “Pháp quyền nhân nghĩa” là:",
     "options": {
       "A": "Nhà nước phải tôn trọng, bảo đảm thực hiện đầy đủ các quyền con người, chăm lo đến lợi ích của mọi người.",
@@ -3330,6 +3586,7 @@
   {
     "id": 257,
     "chapter": "Chương 4",
+    "pdfPage": 44,
     "question": "Theo Hồ Chí Minh “giặc nội xâm”, “giặc ở trong lòng” là:",
     "options": {
       "A": "Tư túng, chia rẽ, kiêu ngạo",
@@ -3343,6 +3600,7 @@
   {
     "id": 258,
     "chapter": "Chương 4",
+    "pdfPage": 44,
     "question": "Chọn ý đúng theo tư tưởng Hồ Chí Minh về Nhà nước",
     "options": {
       "A": "Nhà nước tự xác lập quyền lực nhà nước",
@@ -3356,6 +3614,7 @@
   {
     "id": 259,
     "chapter": "Chương 4",
+    "pdfPage": 44,
     "question": "Chọn phát biểu sai:",
     "options": {
       "A": "Đảng cộng sản Việt Nam “không phải trên trời sa xuống”",
@@ -3369,6 +3628,7 @@
   {
     "id": 260,
     "chapter": "Chương 5",
+    "pdfPage": 44,
     "question": "Hồ Chí Minh lưu ý, phải xây dựng đội ngũ cán bộ Đảng viên:",
     "options": {
       "A": "Vừa có đức, vừa có tài, trong sạch, vững mạnh",
@@ -3382,6 +3642,7 @@
   {
     "id": 261,
     "chapter": "Chương 5",
+    "pdfPage": 44,
     "question": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành trên dựa trên cơ sở nào",
     "options": {
       "A": "Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam",
@@ -3395,6 +3656,7 @@
   {
     "id": 262,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc có mấy luận điểm:",
     "options": {
       "A": "Tổ chức của giai cấp nông dân",
@@ -3408,6 +3670,7 @@
   {
     "id": 263,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là:",
     "options": {
       "A": "Là nhiệm vụ hàng đầu của cách mạng",
@@ -3421,6 +3684,7 @@
   {
     "id": 264,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Trong tư tưởng Hồ Chí Minh, nền tảng của khối đại đoàn kết dân tộc là:",
     "options": {
       "A": "Liên minh công – nông",
@@ -3434,6 +3698,7 @@
   {
     "id": 265,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh, bao gồm:",
     "options": {
       "A": "Chủ nghĩa yêu nước",
@@ -3447,6 +3712,7 @@
   {
     "id": 266,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Sức mạnh đoàn kết quốc tế trong tư tưởng Hồ Chí Minh, bao gồm:",
     "options": {
       "A": "Sức mạnh liên minh chiến đấu giữa lao động ở các nước thuộc địa và lao động thuộc địa với vô sản chính quốc",
@@ -3460,6 +3726,7 @@
   {
     "id": 267,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Theo Hồ Chí Minh, Mặt trận Dân tộc thống nhất phải dựa trên cơ sở:",
     "options": {
       "A": "Đảm bảo lợi lích tối cao của dân tộc, quyền lợi cơ bản của các tầng lớp nhân dân",
@@ -3473,6 +3740,7 @@
   {
     "id": 268,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Tìm yếu tố không nằm trong Mặt trận Dân tộc thống nhất?",
     "options": {
       "A": "Đảng Cộng sản",
@@ -3486,6 +3754,7 @@
   {
     "id": 269,
     "chapter": "Chương 5",
+    "pdfPage": 45,
     "question": "Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là:",
     "options": {
       "A": "Đoàn kết công – nông – lao động trí óc",
@@ -3499,6 +3768,7 @@
   {
     "id": 270,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Theo tư tưởng Hồ Chí Minh, trong Mặt trận Dân tộc thống nhất, Đảng Cộng sản là:",
     "options": {
       "A": "Vừa là thành viên, vừa là lực lượng lãnh đạo Mặt trận Dân tộc thống nhất.",
@@ -3512,6 +3782,7 @@
   {
     "id": 271,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Chọn cụm từ điền vào chỗ trống [……] đúng với tư tưởng Hồ Chí Minh: “Chính sách ngoại giao của Chính phủ thì chỉ có một điều tức là thân thiện với [……] trên thế giới để giữ gìn hòa bình”",
     "options": {
       "A": "Các nước xã hội chủ nghĩa",
@@ -3525,6 +3796,7 @@
   {
     "id": 272,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Tên khối đoàn kết dân tộc do Hội nghị Trung ương Đảng lần thứ 6 (11/1939) xác định là mặt trận nào?",
     "options": {
       "A": "Mặt trận dân tộc giải phóng",
@@ -3538,6 +3810,7 @@
   {
     "id": 273,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Theo tư tưởng Hồ Chí Minh, một trong những nhân tố đóng vai trò",
     "options": {
       "A": "Đoàn kết quốc tế",
@@ -3551,6 +3824,7 @@
   {
     "id": 274,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Theo tư tưởng Hồ Chí Minh, một trong những nguyên tắc đoàn kết",
     "options": {
       "A": "Không dùng vũ lực và đe doạ dùng vũ lực",
@@ -3564,6 +3838,7 @@
   {
     "id": 275,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Theo tư tưởng Hồ Chí Minh, yếu tố nào được xác định là mục tiêu, nhiệm vụ hàng đầu của Đảng, của dân tộc?",
     "options": {
       "A": "Đoàn kết dân tộc kết hợp với đoàn kết quốc tế",
@@ -3577,6 +3852,7 @@
   {
     "id": 276,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Chọn câu trả lời đúng với tư tưởng Hồ Chí Minh?",
     "options": {
       "A": "Đại đoàn kết dân tộc là vấn đề sách lược",
@@ -3590,6 +3866,7 @@
   {
     "id": 277,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Chủ trương trong quan hệ quốc tế của Việt Nam hiện nay là:",
     "options": {
       "A": "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế.",
@@ -3603,6 +3880,7 @@
   {
     "id": 278,
     "chapter": "Chương 5",
+    "pdfPage": 46,
     "question": "Mặt trận Liên -Việt được thành lập vào thời gian nào?",
     "options": {
       "A": "1941",
@@ -3616,6 +3894,7 @@
   {
     "id": 279,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Mặt trận Tổ Quốc Việt Nam được thành lập vào thời gian nào?",
     "options": {
       "A": "1941",
@@ -3629,6 +3908,7 @@
   {
     "id": 280,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Chọn cụm từ điền vào chỗ trống [……] để hoàn chỉnh câu thơ của Hồ",
     "options": {
       "A": "Lao động thế giới",
@@ -3642,6 +3922,7 @@
   {
     "id": 281,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Trong kháng chiến Chống Mỹ, Hồ Chí Minh đã thành công trong việc xây dựng loại mặt trận nào?",
     "options": {
       "A": "Mặt trận đại đoàn kết dân tộc",
@@ -3655,6 +3936,7 @@
   {
     "id": 282,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Trong tư tưởng Hồ Chí Minh, lực lượng chủ yếu của khối đại đoàn",
     "options": {
       "A": "Công nhân",
@@ -3668,6 +3950,7 @@
   {
     "id": 283,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Chọn phương án đúng nhất đối với tư tưởng Hồ Chí Minh: Để tranh thủ sự giúp đỡ của các nước xã hội chủ nghĩa trong đấu tranh cách mạng, cần coi trọng nhân tố:",
     "options": {
       "A": "Có sự lãnh đạo đúng đắn của Đảng",
@@ -3681,6 +3964,7 @@
   {
     "id": 284,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Mối quan hệ giữa nội lực và ngoại lực trong phát triển kinh tế là:",
     "options": {
       "A": "Nội lực là chính.",
@@ -3694,6 +3978,7 @@
   {
     "id": 285,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Chọn cụm từ đúng điền vào chỗ trống: “Việt Nam muốn làm bạn với (1) ……...., không gây thù oán với một ai”",
     "options": {
       "A": "Các nước xã hội chủ nghĩa",
@@ -3707,6 +3992,7 @@
   {
     "id": 286,
     "chapter": "Chương 5",
+    "pdfPage": 47,
     "question": "Chọn phương án trả lời đúng theo tư tưởng Hồ Chí Minh về nguyên tắc ngoại giao:",
     "options": {
       "A": "Phải cứng rắn về nguyên tắc",
@@ -3720,6 +4006,7 @@
   {
     "id": 287,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Thông cáo về chính sách ngoại giao của nước Cộng hòa Dân chủ Việt Nam ngày 03/10/1945 xác định mục tiêu đối ngoại của Việt Nam là góp phần “đưa nước nhà đến sự [……] và vĩnh viễn”.",
     "options": {
       "A": "Tự do hoàn toàn",
@@ -3733,6 +4020,7 @@
   {
     "id": 288,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Luận điểm “Đoàn kết, đoàn kết, đại đoàn kết; Thành công, thành công, đại thành công” của Hồ Chí Minh được trích từ tác phẩm:",
     "options": {
       "A": "Bài nói chuyện tại trong buổi bế mặc Đại hội thành lập Mặt trận Tổ Quốc Việt Nam",
@@ -3746,6 +4034,7 @@
   {
     "id": 289,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Khẩu hiệu ”Giai cấp vô sản tất cả các nước và các dân tộc bị áp bức,",
     "options": {
       "A": "Các Mác",
@@ -3759,6 +4048,7 @@
   {
     "id": 290,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Trong các luận điểm sau, luận điểm nào là của Hồ Chí Minh:",
     "options": {
       "A": "Vô sản tất cả các nước, đoàn kết lại",
@@ -3772,6 +4062,7 @@
   {
     "id": 291,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Theo Hồ Chí Minh, khối đại đoàn kết toàn dân tộc phải dựa trên lập trường của:",
     "options": {
       "A": "Giai cấp công nhân, nông dân và tầng lớp trí thức",
@@ -3785,6 +4076,7 @@
   {
     "id": 292,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Theo Hồ Chí Minh, kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc là:",
     "options": {
       "A": "Nguyên nhân của khối đại đoàn kết toàn dân tộc",
@@ -3798,6 +4090,7 @@
   {
     "id": 293,
     "chapter": "Chương 5",
+    "pdfPage": 48,
     "question": "Theo Hồ Chí Minh, khối đại đoàn kết toàn dân tộc chỉ có sức mạnh khi:",
     "options": {
       "A": "Được lãnh đạo",
@@ -3811,6 +4104,7 @@
   {
     "id": 294,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất phải được xây dựng và hoạt động dựa trên:",
     "options": {
       "A": "3 nguyên tắc",
@@ -3824,6 +4118,7 @@
   {
     "id": 295,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Theo Hồ Chí Minh, đoàn kết quốc tế nhằm:",
     "options": {
       "A": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại",
@@ -3837,6 +4132,7 @@
   {
     "id": 296,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Theo tư tưởng Hồ Chí Minh, lực lượng của đoàn kết quốc tế bao gồm:",
     "options": {
       "A": "Phong trào cộng sản và công nhân Quốc tế",
@@ -3850,6 +4146,7 @@
   {
     "id": 297,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Theo Hồ Chí Minh, trong đoàn kết quốc tế:",
     "options": {
       "A": "Nội lực là quyết định, ngoại lực là cơ bản",
@@ -3863,6 +4160,7 @@
   {
     "id": 298,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Quan điểm “Đại đoàn kết dân tộc là đường lối chiến lược của cách mạng Việt Nam, là động lực và nguồn lực to lớn trong xây dựng và bảo vệ Tổ quốc” được Đảng xác định tại:",
     "options": {
       "A": "Đại hội Đảng lần thứ X",
@@ -3876,6 +4174,7 @@
   {
     "id": 299,
     "chapter": "Chương 5",
+    "pdfPage": 49,
     "question": "Theo Hồ Chí Minh, hạt nhân của sự đoàn kết là:",
     "options": {
       "A": "Sự đoàn kết và thống nhất trong Đảng",
@@ -3889,6 +4188,7 @@
   {
     "id": 300,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Chủ thể của khối đại đoàn kết toàn dân tộc là:",
     "options": {
       "A": "Toàn thể nhân dân Việt Nam yêu nước",
@@ -3902,6 +4202,7 @@
   {
     "id": 301,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "So với các nền dân chủ trước đây, dân chủ XHCN có điểm gì khác biệt cơ bản:",
     "options": {
       "A": "Không còn mang tính giai cấp",
@@ -3915,6 +4216,7 @@
   {
     "id": 302,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Cơ chế vận hành của hệ thống chính trị nước ta là:",
     "options": {
       "A": "Đảng và nhà nước lãnh đạo, quản lý, nhân dân làm chủ",
@@ -3928,6 +4230,7 @@
   {
     "id": 303,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Cho đến nay, nước ta đã từng có mấy bản Hiến pháp?",
     "options": {
       "A": "Một",
@@ -3941,6 +4244,7 @@
   {
     "id": 304,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Hiến pháp 1980 được thông qua tại Quốc hội nước Cộng hoà xã hội",
     "options": {
       "A": "Quốc hội khoá V",
@@ -3954,6 +4258,7 @@
   {
     "id": 305,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Bầu cử các đại biểu Quốc hội và Hội đồng Nhân dân các cấp của dân vào các cơ quan quyền lực nhà nước thuộc loại hình dân chủ nào?",
     "options": {
       "A": "18 tuổi",
@@ -3967,6 +4272,7 @@
   {
     "id": 306,
     "chapter": "Chương 6",
+    "pdfPage": 50,
     "question": "Xây dựng nhà nước pháp quyền XHCN của dân, do dân, vì dân ở",
     "options": {
       "A": "Tăng cường sự lãnh đạo của Đảng",
@@ -3980,6 +4286,7 @@
   {
     "id": 307,
     "chapter": "Chương 6",
+    "pdfPage": 51,
     "question": "Dưới đây là một số luận điểm của Hồ Chí Minh về một nhà nước của dân, do dân, vì dân. Hỏi luận điểm nào trực tiếp thể hiện tư tưởng nhà nước vì dân?",
     "options": {
       "A": "Nhà nước",
@@ -3993,6 +4300,7 @@
   {
     "id": 308,
     "chapter": "Chương 6",
+    "pdfPage": 51,
     "question": "Theo tư tưởng Hồ Chí Minh, nhà nước ta mang bản chất của:",
     "options": {
       "A": "Nhà nước do Đảng của giai cấp công nhân lãnh đạo",
@@ -4006,6 +4314,7 @@
   {
     "id": 309,
     "chapter": "Chương 6",
+    "pdfPage": 51,
     "question": "Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, Đảng lãnh đạo Nhà nước bằng:",
     "options": {
       "A": "Chăm lo mọi mặt đời sống của nhân dân",
@@ -4019,6 +4328,7 @@
   {
     "id": 310,
     "chapter": "Chương 6",
+    "pdfPage": 52,
     "question": "Luận điểm nào sau đây là sai? Theo Hồ Chí Minh, trong xây dựng đường lối chính trị Đảng cần phải:",
     "options": {
       "A": "Thật sự là đội tiên phong dũng cảm, là bộ tham mưu sáng suốt của giai cấp công nhân, nhân dân lao động và của cả dân tộc",
@@ -4032,6 +4342,7 @@
   {
     "id": 311,
     "chapter": "Chương 6",
+    "pdfPage": 52,
     "question": "Theo tư tưởng Hồ Chí Minh, nhà nước vì dân là nhà nước:",
     "options": {
       "A": "Tất cả đều vì lợi ích của nhân dân",
@@ -4045,6 +4356,7 @@
   {
     "id": 312,
     "chapter": "Chương 6",
+    "pdfPage": 52,
     "question": "Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, nhà nước vì dân là nhà nước:",
     "options": {
       "A": "Tất cả đều vì lợi ích của nhân dân",
@@ -4058,6 +4370,7 @@
   {
     "id": 313,
     "chapter": "Chương 6",
+    "pdfPage": 52,
     "question": "Chọn cụm từ điền vào chỗ trống […..] theo tư tưởng Hồ Chí Minh: “ nước nhà thịnh hay suy , yếu hay mạnh một phần lớn do các […..] “. a.thanh niên c.Thiếu nhi , nhi đồng 29 Theo Hồ Chí Minh , chế độ chính trị mà chúng ta xây dựng là chế độ: b.Cấn bộ nhà nước d.Chính phủ d.tri thức",
     "options": {
       "A": "Nhà nước phải chịu sự lãnh đạo của Đảng",
@@ -4071,6 +4384,7 @@
   {
     "id": 314,
     "chapter": "Chương 6",
+    "pdfPage": 53,
     "question": "Nhà nước do dân theo tư tưởng Hồ Chí Minh là :",
     "options": {
       "A": "Đại biểu của nhà nước do dân lựa chọn. Nhà nước phải liên hệ chặt chẽ với dân .",
@@ -4084,6 +4398,7 @@
   {
     "id": 315,
     "chapter": "Chương 6",
+    "pdfPage": 53,
     "question": "Nhà nước vì dân theo tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Phục vụ vì lợi ích và nguyện vọng chính đáng của nhân dân",
@@ -4097,6 +4412,7 @@
   {
     "id": 316,
     "chapter": "Chương 6",
+    "pdfPage": 53,
     "question": "Điền vào chỗ trống [……] đúng theo tư tưởng Hồ Chí Minh: Nhà nước Việt Nam […..]: a.Mang bản chất giai cấp công nhân",
     "options": {
       "A": "Bệnh thành tích",
@@ -4110,6 +4426,7 @@
   {
     "id": 317,
     "chapter": "Chương 6",
+    "pdfPage": 53,
     "question": "Một nhà nước pháp quyền có pháp lý mạnh mẽ theo Hồ Chí Minh phải",
     "options": {
       "A": "Coi trọng pháp luật trong quản lý xã hội",
@@ -4123,6 +4440,7 @@
   {
     "id": 318,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Phẩm chất đạo đức cơ bản đạo đức của người Việt Nam trong thời đại",
     "options": {
       "A": "Trung với nước , Hiếu với dân. Yêu thường con người",
@@ -4136,6 +4454,7 @@
   {
     "id": 319,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Hãy lựa chọn câu trả lời đúng nhất theo tư tưởng Hồ Chí Minh :",
     "options": {
       "A": "Vì lợi ích mười năm trồng người , vì lợi ích trăm năm trồng cây",
@@ -4149,6 +4468,7 @@
   {
     "id": 320,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Con người theo quan điểm của Hồ Chí Minh là :",
     "options": {
       "A": "Vốn quý nhất , nhân tố quan trọng của cách mạng",
@@ -4162,6 +4482,7 @@
   {
     "id": 321,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Khái niệm con người theo quan niệm của Hồ Chí Minh:",
     "options": {
       "A": "Một con người cụ thể",
@@ -4175,6 +4496,7 @@
   {
     "id": 322,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Theo Hồ Chí Minh “[…..] là gốc của người cách mạng “ .",
     "options": {
       "A": "Tài năng và đạo đức",
@@ -4188,6 +4510,7 @@
   {
     "id": 323,
     "chapter": "Chương 6",
+    "pdfPage": 54,
     "question": "Hồ Chí Minh đề cập đến đạo đức trong những quan hệ nào sau đây ?",
     "options": {
       "A": "Tuyên ngôn độc lập",
@@ -4201,6 +4524,7 @@
   {
     "id": 324,
     "chapter": "Chương 6",
+    "pdfPage": 55,
     "question": "Theo Hồ Chí Minh , để phát huy động lực con người , cần phải?",
     "options": {
       "A": "Phát huy sức mạnh của cả cộng đồng và sức mạnh của cá nhân người lao động",
@@ -4214,6 +4538,7 @@
   {
     "id": 325,
     "chapter": "Chương 6",
+    "pdfPage": 55,
     "question": "Theo tư tưởng Hồ Chí Minh, tính đại chúng của nền văn hóa được thể hiện ở chỗ :",
     "options": {
       "A": "Nền văn hóa ấy phải phục vụ cho nhân dân và do nhân dân xây dựng nên",
@@ -4227,6 +4552,7 @@
   {
     "id": 326,
     "chapter": "Chương 6",
+    "pdfPage": 55,
     "question": "Theo tư tưởng Hồ Chí Minh, đạo đức có vai trò như thế nào ?",
     "options": {
       "A": "Là nền tảng lý luận của người cách mạng",
@@ -4240,6 +4566,7 @@
   {
     "id": 327,
     "chapter": "Chương 6",
+    "pdfPage": 55,
     "question": "Theo tư tưởng Hồ Chí Minh , một trong những yêu cầu về xây dựng đội ngũ cán bộ công chức nhà nước là :",
     "options": {
       "A": "Tiếp tục phát triển kinh tế",
@@ -4253,6 +4580,7 @@
   {
     "id": 328,
     "chapter": "Chương 6",
+    "pdfPage": 56,
     "question": "Câu nói nào sau đây là của Hồ Chí Minh ?",
     "options": {
       "A": "Đường lối lãnh đạo",
@@ -4266,6 +4594,7 @@
   {
     "id": 329,
     "chapter": "Chương 6",
+    "pdfPage": 56,
     "question": "Theo tư tưởng Hồ Chí Minh , trong mỗi con người bao giờ cũng có :",
     "options": {
       "A": "8-1941",
@@ -4279,6 +4608,7 @@
   {
     "id": 330,
     "chapter": "Chương 6",
+    "pdfPage": 56,
     "question": "Luận điểm nào sau đây là SAI ? Theo tư tưởng Hồ Chí minh , chức",
     "options": {
       "A": "Bồi dưỡng tư tưởng và tĩnh cảm cao đẹp",
@@ -4292,6 +4622,7 @@
   {
     "id": 331,
     "chapter": "Chương 6",
+    "pdfPage": 57,
     "question": "Bác Hồ viết : Nay chúng ta đã giành được quyền độc lập,một trong những công việc phải thực hiện cấp tốc lúc này , là nâng cao dân trí [……] Phụ nữ lại càng cần phải học, đã lâu chị em bị kìm hãm, đây là lúc chị em phải có gắng để kịp nam giới “Đoạn văn trên trích từ văn bản nào của Hồ Chí Minh ?",
     "options": {
       "A": "Chống nạn thất học",
@@ -4305,6 +4636,7 @@
   {
     "id": 332,
     "chapter": "Chương 6",
+    "pdfPage": 57,
     "question": "Trong phiên họp đầu tiên của chính phủ nước Việt Nam dân chủ cộng hòa , dưới sự của chủ tịch Hồ Chí Minh, Người đã nói :” nạn dốt là một trong những phương pháp độc ác mà bọn thực dân dùng để cai trị chúng ta. Hơn chin mươi phần trăm đồng bào chúng ta mù chữ.. Một dân tộc dốt là một dân tộc yếu. Vì vậy, tôi đề nghị một chiến dịch để chống nạn mù chữ “ Phiên họp đó diễn ra vào lúc nào ?",
     "options": {
       "A": "Dân tộc, dân chủ",
@@ -4318,6 +4650,7 @@
   {
     "id": 333,
     "chapter": "Chương 6",
+    "pdfPage": 57,
     "question": "Phong trào mà Hồ Chí Minh chủ trương để xóa nạn mù chữ sau năm 1945 gọi là gì ?",
     "options": {
       "A": "Bình dân học vụ",
@@ -4331,6 +4664,7 @@
   {
     "id": 334,
     "chapter": "Chương 6",
+    "pdfPage": 57,
     "question": "Đặc điểm “ Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc “ được nêu đầu tiên tại Đại hội nào của Đảng ?",
     "options": {
       "A": "Đại hội V (1982 )",
@@ -4344,6 +4678,7 @@
   {
     "id": 335,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Từ sau cách mạng tháng Tám năm 1945, văn hóa được Hồ Chí Minh xác định là :",
     "options": {
       "A": "Đời sống vật chất và tinh thần của xã hội",
@@ -4357,6 +4692,7 @@
   {
     "id": 336,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Theo tư tưởng Hồ Chí minh, một trong những chức năng cơ bản của Văn hóa là :",
     "options": {
       "A": "Định hướng cho sự phát triển",
@@ -4370,6 +4706,7 @@
   {
     "id": 337,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Đặc trưng cốt lõi của tư tưởng đạo đức Hồ Chí Minh là gì ?",
     "options": {
       "A": "Lòng thương người",
@@ -4383,6 +4720,7 @@
   {
     "id": 338,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Theo Hồ Chí Minh , đạo đức là :",
     "options": {
       "A": "Gốc của người cách mạng",
@@ -4396,6 +4734,7 @@
   {
     "id": 339,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Hồ Chí Minh ví tuổi trẻ như mùa nào trong năm?",
     "options": {
       "A": "Mùa xuân",
@@ -4409,6 +4748,7 @@
   {
     "id": 340,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Vào năm 1987, được tổ chức UNESCO ghi nhận Hồ Chí Minh là",
     "options": {
       "A": "Anh hùng giải phóng dân tộc, danh nhân văn hóa thế giới",
@@ -4422,6 +4762,7 @@
   {
     "id": 341,
     "chapter": "Chương 6",
+    "pdfPage": 58,
     "question": "Hồ Chí Minh có:",
     "options": {
       "A": "3 cách tiếp cận về văn hóa",
@@ -4435,6 +4776,7 @@
   {
     "id": 342,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Trong mối quan hệ với kinh tế, Hồ Chí Minh cho rằng:",
     "options": {
       "A": "Văn hóa là cơ sở hạ tầng của kinh tế",
@@ -4448,6 +4790,7 @@
   {
     "id": 343,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Chọn câu đúng theo tư tưởng Hồ Chí Minh:",
     "options": {
       "A": "Xã hội thế nào văn hóa thế ấy",
@@ -4461,6 +4804,7 @@
   {
     "id": 344,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Theo Hồ Chí Minh, lòng yêu nước, thương nòi, tinh thần độc lập, tự cường, tự tôn dân tộc là:",
     "options": {
       "A": "Nội dung của bản sắc văn hóa dân tộc",
@@ -4474,6 +4818,7 @@
   {
     "id": 345,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Theo tư tưởng Hồ Chí Minh, tiếp biến văn hóa là:",
     "options": {
       "A": "Bản chất của văn hóa",
@@ -4487,6 +4832,7 @@
   {
     "id": 346,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Theo Hồ Chí Minh, mục đích của tiếp thu văn hóa nhân loại là để:",
     "options": {
       "A": "Bổ sung và phát triển cho văn hóa Việt Nam.",
@@ -4500,6 +4846,7 @@
   {
     "id": 347,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "Chọn phát biểu đúng của Hồ Chí Minh:",
     "options": {
       "A": "Đạo đức là gốc, nền tảng, sức mạnh, tiêu chuẩn hàng đầu",
@@ -4513,6 +4860,7 @@
   {
     "id": 348,
     "chapter": "Chương 6",
+    "pdfPage": 59,
     "question": "“Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân. Vì muốn giải phóng dân tộc, giải phóng cho loài người là một công việc to tát mà tự mình không có đạo đức, không có căn bản, tự mình đã hủ hóa, xấu xa thì còn làm nổi việc gì?”. Đoạn trích trên được trích trong tác phẩm nào của Hồ Chí Minh:",
     "options": {
       "A": "Bản án chế độ thực dân Pháp",
@@ -4526,6 +4874,7 @@
   {
     "id": 349,
     "chapter": "Chương 6",
+    "pdfPage": 60,
     "question": "Theo Hồ Chí Minh, tiêu chuẩn cho mục đích hành động là:",
     "options": {
       "A": "Đạo đức",
@@ -4539,6 +4888,7 @@
   {
     "id": 350,
     "chapter": "Chương 6",
+    "pdfPage": 60,
     "question": "Theo Hồ Chí Minh, phẩm chất đạo đức được xem là bao trùm, quan trọng nhất và chi phối các phẩm chất khác là:",
     "options": {
       "A": "Cần, kiệm, liêm, chính, chí công vô tư",
@@ -4552,6 +4902,7 @@
   {
     "id": 351,
     "chapter": "Chương 6",
+    "pdfPage": 60,
     "question": "Theo Hồ Chí Minh, nội dung cốt lõi của đạo đức cách mạng là:",
     "options": {
       "A": "Cần, kiệm, liêm, chính, chí công vô tư",
@@ -4565,6 +4916,7 @@
   {
     "id": 352,
     "chapter": "Chương 6",
+    "pdfPage": 60,
     "question": "Theo Hồ Chí Minh, tinh thần Quốc tế trong sáng, chủ nghĩa Quốc tế có nguồn gốc từ:",
     "options": {
       "A": "Bản chất của giai cấp công nhân",
@@ -4578,6 +4930,7 @@
   {
     "id": 353,
     "chapter": "Chương 6",
+    "pdfPage": 60,
     "question": "Nguyên tắc xây dựng đạo đức cách mạng theo tư tưởng Hồ Chí Minh là:",
     "options": {
       "A": "Nói đi đôi với làm, noi gương về đạo đức; xây đi đôi với chống; tu dưỡng đạo đức suốt đời",
@@ -4591,6 +4944,7 @@
   {
     "id": 354,
     "chapter": "Chương 6",
+    "pdfPage": 61,
     "question": "Theo tư tưởng Hồ Chí Minh, “mỗi người tự rèn luyện, tu dưỡng ý thức, kết hợp với xây dựng cơ chế, tính khoa học của bộ máy và tạo dựng nền dân chủ” được hiểu là:",
     "options": {
       "A": "Ý nghĩa của việc xây dựng con người",
@@ -4604,6 +4958,7 @@
   {
     "id": 355,
     "chapter": "Chương 6",
+    "pdfPage": 61,
     "question": "Chọn nội dung đúng nhất theo tư tưởng Hồ Chí Minh về “trồng người”:",
     "options": {
       "A": "Xây dựng con người",
@@ -4617,6 +4972,7 @@
   {
     "id": 356,
     "chapter": "Chương 6",
+    "pdfPage": 61,
     "question": "Theo Hồ Chí Minh, động lực của cách mạng là:",
     "options": {
       "A": "Tinh thần yêu nước",
@@ -4630,6 +4986,7 @@
   {
     "id": 357,
     "chapter": "Chương 6",
+    "pdfPage": 61,
     "question": "Chọn từ điền vào chỗ trống: Văn hóa chính trị là một trong những.......... soi đường cho quốc dân đi......quốc dân để thực hiện độc lập, tự cường, tự chủ.",
     "options": {
       "A": "Điều khiển",
@@ -4643,6 +5000,7 @@
   {
     "id": 358,
     "chapter": "Chương 6",
+    "pdfPage": 62,
     "question": "Yếu tố cốt lõi đầu tiên tạo nên nền tảng tư tưởng đạo đức Hồ Chí Minh là:",
     "options": {
       "A": "Tình yêu thương con người",
@@ -4656,6 +5014,7 @@
   {
     "id": 359,
     "chapter": "Mở đầu",
+    "pdfPage": 62,
     "question": "Theo Hồ Chí Minh, nội dung của tiếp thu văn hóa thế giới là:",
     "options": {
       "A": "Toàn diện",
@@ -4669,6 +5028,7 @@
   {
     "id": 360,
     "chapter": "Chương 3",
+    "pdfPage": 69,
     "question": "Chọn phương án sai: Đặc trưng bản chất tổng quát của chủ nghĩa xã hội ở Việt Nam là:",
     "options": {
       "A": "Chủ nghĩa xã hội là một xã hội có nền kinh tế phát triển cao gắn liền với sự phát triển của khoa học – kỹ thuật.",
@@ -4682,6 +5042,7 @@
   {
     "id": 361,
     "chapter": "Chương 3",
+    "pdfPage": 69,
     "question": "Theo tư tưởng Hồ Chí Minh, lực lượng xây dựng chủ nghĩa xã hội là:",
     "options": {
       "A": "Công nhân.",
@@ -4695,6 +5056,7 @@
   {
     "id": 362,
     "chapter": "Chương 3",
+    "pdfPage": 69,
     "question": "Theo tư tưởng Hồ Chí Minh, nền kinh tế xã hội chủ nghĩa là nền kinh tế:",
     "options": {
       "A": "Có công nghiệp, nông nghiệp hiện đại, có khoa học kỹ thuật tiên tiến.",
@@ -4708,6 +5070,7 @@
   {
     "id": 363,
     "chapter": "Chương 3",
+    "pdfPage": 69,
     "question": "Theo tư tưởng Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có:",
     "options": {
       "A": "Con người có tinh thần sáng tạo, dám nghĩ, dám làm.",
@@ -4721,6 +5084,7 @@
   {
     "id": 364,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Chọn phương án sai: Theo tư tưởng Hồ Chí Minh, hững trở lực kìm hãm sự phát triển của chủ nghĩa xã hội là:",
     "options": {
       "A": "Bệnh tham ô, lãng phí, quan liêu.",
@@ -4734,6 +5098,7 @@
   {
     "id": 365,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Theo tư tưởng Hồ Chí Minh, đặc điểm lớn nhất của thời kỳ quá độ lên chủ chủ nghĩa xã hội ở Việt Nam là:",
     "options": {
       "A": "Nông nghiệp, công nghiệp lạc hậu, khoa học kỹ thuật kém phát triển.",
@@ -4747,6 +5112,7 @@
   {
     "id": 366,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Theo tư tưởng Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là:",
     "options": {
       "A": "Xây dựng nền văn hóa của chủ nghĩa xã hội.",
@@ -4760,6 +5126,7 @@
   {
     "id": 367,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Theo tư tưởng Hồ Chí Minh, biện pháp cơ bản, quyết định, lâu dài trong xây dựng chủ nghĩa xã hội ở nước ta là:",
     "options": {
       "A": "Phát huy sức mạnh của giai cấp công nhân, dưới sự lãnh đạo của Đảng cộng sản.",
@@ -4773,6 +5140,7 @@
   {
     "id": 368,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Theo tư tưởng Hồ Chí Minh, đặc trưng kinh tế nổi bật nhất của chủ nghĩa xã hội là:",
     "options": {
       "A": "Chế đô phân phối theo lao động.",
@@ -4786,6 +5154,7 @@
   {
     "id": 369,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Theo tư tưởng Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là:",
     "options": {
       "A": "Phân phối bình quân cho tất cả mọi người.",
@@ -4799,6 +5168,7 @@
   {
     "id": 370,
     "chapter": "Chương 3",
+    "pdfPage": 70,
     "question": "Ham muốn tột bậc của Hồ Chí Minh là:",
     "options": {
       "A": "Nước ta được hoàn toàn độc lập.",
@@ -4812,6 +5182,7 @@
   {
     "id": 371,
     "chapter": "Chương 3",
+    "pdfPage": 71,
     "question": "Theo tư tưởng Hồ Chí Minh, mục tiêu cao nhất của chủ nghĩa xã hội là:",
     "options": {
       "A": "Khoa học kỹ thuật tiên tiến.",
@@ -4825,6 +5196,7 @@
   {
     "id": 372,
     "chapter": "Chương 3",
+    "pdfPage": 71,
     "question": "Theo tư tưởng Hồ Chí Minh, mục tiêu tổng quát của chủ nghĩa xã hội là:",
     "options": {
       "A": "Một nền kinh tế hiện đại, có sức tăng trưởng cao.",
@@ -4838,6 +5210,7 @@
   {
     "id": 373,
     "chapter": "Chương 3",
+    "pdfPage": 71,
     "question": "Theo tư tưởng Hồ Chí Minh, động lực quyết định nhất của chủ nghĩa xã hội là:",
     "options": {
       "A": "Khoa học – kỹ thuật.",
@@ -4851,6 +5224,7 @@
   {
     "id": 374,
     "chapter": "Chương 4",
+    "pdfPage": 71,
     "question": "Chọn đáp án sai với quan điểm Hồ Chí Minh: Tính chất phức tạp và khó khăn của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam được Người lý giải trên các phương diện sau:",
     "options": {
       "A": "Nước ta xây dựng chủ nghĩa xã hội với xuất phát điểm thấp, kinh tế nông nghiệp nghèo nàn, lạc hậu, khoa học kỹ thuật kém phát triển.",
@@ -4864,6 +5238,7 @@
   {
     "id": 375,
     "chapter": "Chương 4",
+    "pdfPage": 71,
     "question": "Theo tư tưởng Hồ Chí Minh, sự ra đời của Đảng Cộng sản Việt Nam bắt nguồn từ sự kết hợp giữa các yếu tố nào?",
     "options": {
       "A": "Sự kết hợp giữa chủ nghĩa Mác - Lênin với các phong trào đấu tranh của dân tộc Việt Nam.",
@@ -4877,6 +5252,7 @@
   {
     "id": 376,
     "chapter": "Chương 4",
+    "pdfPage": 71,
     "question": "Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam là đảng của ai?",
     "options": {
       "A": "Của giai cấp công nhân.",
@@ -4890,6 +5266,7 @@
   {
     "id": 377,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Chọn phương án sai: Theo tư tưởng Hồ Chí Minh, những nguyên tắc tổ chức, sinh hoạt đảng là:",
     "options": {
       "A": "Tập trung dân chủ.",
@@ -4903,6 +5280,7 @@
   {
     "id": 378,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Căn cứ vào Giáo trình Tư tưởng Hồ Chí Minh, chọn phương án đúng nhất điền vào dấu “…” Trong câu trích sau đây: “Hồ Chí Minh nhận thức rất rõ vị trí, vai trò của…trong sự nghiệp cách mạng. Muôn việc thành công hay thất bại là do …tốt hay kém”:",
     "options": {
       "A": "Chính trị.",
@@ -4916,6 +5294,7 @@
   {
     "id": 379,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Hội nghị thành lập Đảng tháng 2 – 1930 đã quyết định lấy tên Đảng là gì?",
     "options": {
       "A": "Đảng Cộng sản Việt Nam",
@@ -4929,6 +5308,7 @@
   {
     "id": 380,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Theo tư tưởng Hồ Chí Minh, Đảng lãnh đạo nhà nước bằng phương thức nào?",
     "options": {
       "A": "Lãnh đạo xây dựng luật pháp để quản lý, điều hành xã hội.",
@@ -4942,6 +5322,7 @@
   {
     "id": 381,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Luận điểm : “Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi” được trích từ tác phẩm nào của Nguyễn Ái Quốc?",
     "options": {
       "A": "Bản án chế độ thực dân Pháp.",
@@ -4955,6 +5336,7 @@
   {
     "id": 382,
     "chapter": "Chương 4",
+    "pdfPage": 72,
     "question": "Luận điểm: “Đảng muốn vững thì phải có chủ nghĩa làm nòng cốt, trong đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng như người không có trí khôn, tàu không có bàn chỉ nam” được trích từ tác phẩm nào của Nguyễn Ái Quốc?",
     "options": {
       "A": "Đường kách mệnh.",
@@ -4968,6 +5350,7 @@
   {
     "id": 383,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Theo tư tưởng Hồ Chí Minh, vai trò lãnh đạo của giai cấp công nhân trong cách mạng Việt Nam do yếu tố nào quy định?",
     "options": {
       "A": "Do số lượng của giai cấp công nhân.",
@@ -4981,6 +5364,7 @@
   {
     "id": 384,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Chọn từ thích hợp điền vào dấu “…” “Công việc thành công hay thất bại đều do cán bộ”:",
     "options": {
       "A": "Tốt hay xấu.",
@@ -4994,6 +5378,7 @@
   {
     "id": 385,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Theo tư tưởng Hồ Chí Minh: Công tác gốc của Đảng là gì?",
     "options": {
       "A": "Công tác chính trị.",
@@ -5007,6 +5392,7 @@
   {
     "id": 386,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Điền cụm từ thiếu vào dấu “…” trong câu sau đây: Theo Hồ Chí Minh, “Đảng phải giữ vững thì phải có chủ nghĩa…, trong đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy”:",
     "options": {
       "A": "Làm căn cứ.",
@@ -5020,6 +5406,7 @@
   {
     "id": 387,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Điền cụm từ thích hợp điền vào dấu “…” trong đoạn trích dưới đây: “Một dân tộc, một đảng và mỗi con người, ngày hôm qua là vĩ đại, có sức hấp dẫn lớn, không nhất định hôm nay và ngày mai vẫn được mọi người yêu mến và ca ngợi, nếu lòng dạ không trong sáng nữa, nếu sa vào…”:",
     "options": {
       "A": "Tham ô, tham nhũng.",
@@ -5033,6 +5420,7 @@
   {
     "id": 388,
     "chapter": "Chương 4",
+    "pdfPage": 73,
     "question": "Theo tư tưởng Hồ Chí Minh, Đảng ta là người đầy tớ thật trung thành của nhân dân, nghĩa là…",
     "options": {
       "A": "Theo đuổi quần chúng.",
@@ -5046,6 +5434,7 @@
   {
     "id": 389,
     "chapter": "Chương 5",
+    "pdfPage": 73,
     "question": "Cụm từ “Đảng cầm quyền” được Hồ Chí Minh ghi trong tác phẩm nào sau",
     "options": {
       "A": "Thường thức chính trị.",
@@ -5059,6 +5448,7 @@
   {
     "id": 390,
     "chapter": "Chương 6",
+    "pdfPage": 76,
     "question": "Theo quan niệm của Hồ Chí Minh, dân chủ có nghĩa là:",
     "options": {
       "A": "Dân là chủ",
@@ -5072,6 +5462,7 @@
   {
     "id": 391,
     "chapter": "Chương 6",
+    "pdfPage": 76,
     "question": "Theo tư tưởng Hồ Chí Minh, Nhà nước của dân là:",
     "options": {
       "A": "Nhà nước do nhân dân tổ chức nên.",
@@ -5085,6 +5476,7 @@
   {
     "id": 392,
     "chapter": "Chương 6",
+    "pdfPage": 76,
     "question": "Lựa chọn phương án sai: theo tư tưởng Hồ Chí Minh, Nhà nước Việt Nam mang bản chất giai cấp công nhân vì:",
     "options": {
       "A": "Nhà nước ta bảo vệ quyền và lợi ích cơ bản của giai cấp công dân, do giai cấp công nhân lãnh đạo.",
@@ -5098,6 +5490,7 @@
   {
     "id": 393,
     "chapter": "Chương 6",
+    "pdfPage": 76,
     "question": "Hãy chọn cụm từ đúng điền vào dấu “…” trong câu sau của Chủ tịch Hồ Chí Minh: “cách mệnh rồi thì quyền giao cho…, chớ để trong tay một bọn ít người”.",
     "options": {
       "A": "Giai cấp công nhân, nông dân và tầng lớp trí thức.",
@@ -5111,6 +5504,7 @@
   {
     "id": 394,
     "chapter": "Chương 6",
+    "pdfPage": 76,
     "question": "Chọn một phương án đúng điền vào chỗ trống: “Chống… và bệnh quan liêu cũng quan trọng và cần kíp như việc đánh giặc trên mặt trận”.",
     "options": {
       "A": "Hách dịch, cửa quyền.",
@@ -5124,6 +5518,7 @@
   {
     "id": 395,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Một trong những nét đặc sắc nhất của tư tưởng Hồ Chí Minh về xây dựng nhà nước pháp quyền dân chủ nhân dân là:",
     "options": {
       "A": "Bảo đảm tính nghiêm minh và hiệu lực của pháp luật.",
@@ -5137,6 +5532,7 @@
   {
     "id": 396,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Theo tư tưởng Hồ Chí Minh, nhà nước do dân là:",
     "options": {
       "A": "Nhà nước do dân lập nên và tham gia quản lý.",
@@ -5150,6 +5546,7 @@
   {
     "id": 397,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Theo tư tưởng Hồ Chí Minh, nhà nước vì dân được hiểu là:",
     "options": {
       "A": "Nhân dân xây dựng và tham gia quản lý nhà nước.",
@@ -5163,6 +5560,7 @@
   {
     "id": 398,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Lựa chọn phương án đúng theo tư tưởng Hồ Chí Minh, để xây dựng nhà nước trong sạch, vững mạnh, hoạt động có hiệu quả thì phải:",
     "options": {
       "A": "Đề phòng và khắc phục những tiêu cực trong hoạt động của nhà nước.",
@@ -5176,6 +5574,7 @@
   {
     "id": 399,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Hồ Chí Minh ví cán bộ, công chức nhà nước là:",
     "options": {
       "A": "“Ông chủ”, “quan trên” của dân.",
@@ -5189,6 +5588,7 @@
   {
     "id": 400,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Lựa chọn phương án đúng theo quan điểm của Hồ Chí Minh:",
     "options": {
       "A": "Bản chất của nhà nước ta thống nhất giữa bản chất của giai cấp công nhân với bản chất của giai cấp nông dân và đội ngũ trí thức.",
@@ -5202,6 +5602,7 @@
   {
     "id": 401,
     "chapter": "Chương 6",
+    "pdfPage": 77,
     "question": "Hãy lựa chọn cụm từ đúng điền vào chỗ trống trong câu ca sau của Hồ Chí Minh: “Bảy xin hiến pháp ban hành, Trăm điều phải có…”",
     "options": {
       "A": "Anh minh pháp quyền.",
@@ -5215,6 +5616,7 @@
   {
     "id": 402,
     "chapter": "Chương 7",
+    "pdfPage": 78,
     "question": "Trong các câu nói sau đây, câu nào không phải của Hồ Chí Minh:",
     "options": {
       "A": "“Công việc thành công hay thất bại đều do cán bộ tốt hay kém”.",
@@ -5228,6 +5630,7 @@
   {
     "id": 403,
     "chapter": "Chương 7",
+    "pdfPage": 79,
     "question": "Chữ “Kiệm” trong quan niệm của Hồ Chí Minh được hiểu là:",
     "options": {
       "A": "Tiết kiệm.",
@@ -5241,6 +5644,7 @@
   {
     "id": 404,
     "chapter": "Chương 7",
+    "pdfPage": 79,
     "question": "Vai trò của con người trong quan điểm của Hồ Chí Minh:",
     "options": {
       "A": "Là mục tiêu và động lực của cách mạng.",
@@ -5254,6 +5658,7 @@
   {
     "id": 405,
     "chapter": "Chương 7",
+    "pdfPage": 80,
     "question": "Theo tư tưởng Hồ Chí minh, văn hóa có quan hệ như thế nào với chính trị ?",
     "options": {
       "A": "Văn hóa phải phục vụ nhiệm vụ chính trị",
@@ -5267,6 +5672,7 @@
   {
     "id": 406,
     "chapter": "Chương 7",
+    "pdfPage": 80,
     "question": "Bản “ Đề cường Văn hóa Việt Nam “ do trường chinh trực tiếp dự thảo đã xác định những nguyên tắc của nền văn hóa mới là gì ?",
     "options": {
       "A": "Dân tộc hóa , đại chúng hóa , khoa học hóa",
@@ -5280,6 +5686,7 @@
   {
     "id": 407,
     "chapter": "Chương 7",
+    "pdfPage": 80,
     "question": "Theo tư tưởng Hồ Chí minh, chữ Người nghĩa là ?",
     "options": {
       "A": "Gia đình , anh em , họ hàng , bầu bạn",
@@ -5293,6 +5700,7 @@
   {
     "id": 408,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, các lĩnh vực chính của văn hóa là :",
     "options": {
       "A": "Văn hóa giáo dục",
@@ -5306,6 +5714,7 @@
   {
     "id": 409,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, muốn xây dựng đạo đức mới , một trong những nguyên tắc là b.3c.4d.5 phải:",
     "options": {
       "A": "Nói đi đôi với làm",
@@ -5319,6 +5728,7 @@
   {
     "id": 410,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, muốn xây dựng đạo đức mới , phải :",
     "options": {
       "A": "Nói đi đôi với làm , xây đi đôi với chống ; tu dưỡng đạo đức suốt đời",
@@ -5332,6 +5742,7 @@
   {
     "id": 411,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, mục tiêu của giáo dục là ;",
     "options": {
       "A": "Xóa nạn mù chữ , làm cho người dân biết đọc , biết viết",
@@ -5345,6 +5756,7 @@
   {
     "id": 412,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Chọn luận điểm đúng với tư tưởng Hồ Chí Minh",
     "options": {
       "A": "Muốn tiến lên CNXH thì phải phát triển văn hóa và kinh tế",
@@ -5358,6 +5770,7 @@
   {
     "id": 413,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Tác phẩm “ Đời sống mới “ do chủ tịch Hồ Chí Minh viết vào tháng 3 năm 1947 bao gồm mấy điều? c.14 điều b.10 điều",
     "options": {
       "A": "5 điều",
@@ -5371,6 +5784,7 @@
   {
     "id": 414,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, đời sống mới bao gồm những mặt nào ?",
     "options": {
       "A": "Đạo đức mới , lối sống mới , nếp sống mới",
@@ -5384,6 +5798,7 @@
   {
     "id": 415,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Theo Hồ Chí minh, nội dung của nền văn hóa mới là gì ?",
     "options": {
       "A": "Giáo dục toàn diện cả đức và tài",
@@ -5397,6 +5812,7 @@
   {
     "id": 416,
     "chapter": "Chương 7",
+    "pdfPage": 81,
     "question": "Bản chất con người theo Hồ Chí Minh là gì ?",
     "options": {
       "A": "Sản phẩm tiến hóa tự nhiên",
@@ -5410,6 +5826,7 @@
   {
     "id": 417,
     "chapter": "Chương 7",
+    "pdfPage": 82,
     "question": "Đặc điểm “ Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc “ được nêu đầu tiên tại Đại hội nào của Đảng ?",
     "options": {
       "A": "Đại hội V (1982 )",
@@ -5423,6 +5840,7 @@
   {
     "id": 418,
     "chapter": "Chương 7",
+    "pdfPage": 82,
     "question": "Tại Đại hội nào của Đảng cộng sản Việt Nam coi: “ Giáo dục và đạo tạo ,khoa học và công nghệ là quốc sách hàng đầu “ ?",
     "options": {
       "A": "Đại hội lần thứ V",
@@ -5436,6 +5854,7 @@
   {
     "id": 419,
     "chapter": "Chương 1",
+    "pdfPage": 82,
     "question": "Theo tư tưởng Hồ Chí Minh chức năng cơ bản của văn hóa là :",
     "options": {
       "A": "Bồi dưỡng tư tưởng đúng đắn và tĩnh cảm cao đẹp của con người",
